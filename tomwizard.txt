@@ -4,3 +4,18 @@ img="https://github.com/krecik71/kret/blob/master/icon.png"
 fanart="https://github.com/krecik71/kret/blob/master/fanart.jpg"
 description="     "
 version="1.0.1"
+
+
+name="tom "
+version="1.0.1"
+url="https://kodihub.net/sewuq"
+gui=""
+kodi="17.6"
+theme="http://"
+icon="https://github.com/krecik71/kret/blob/master/icon.png"
+fanart="http://"
+preview="http://"
+adult="no"
+description=""
+counter="1"
+
