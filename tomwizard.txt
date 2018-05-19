@@ -1,0 +1,6 @@
+name="METALLIQ + EXTENDED INFO MOD WORKING PATCH 25.02.18"
+url="https://kodihub.net/sewuq"
+img="https://github.com/meserak86/QWER/raw/master/icon.png"
+fanart="https://github.com/meserak86/QWER/raw/master/fanart.jpg"
+description="     "
+version="1.0.1"
