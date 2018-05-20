@@ -1,4 +1,4 @@
-name="PLi + EXTENDED "
+name="tom "
 url="https://kodihub.net/35wa2"
 img="https://github.com/krecik71/kret/blob/master/icon.png"
 fanart="https://github.com/krecik71/kret/blob/master/fanart.jpg"
