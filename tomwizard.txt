@@ -1,5 +1,5 @@
-name="METALLIQ + EXTENDED INFO MOD WORKING PATCH 25.02.18"
-url="https://kodihub.net/sewuq"
+name="PLi + EXTENDED "
+url="https://kodihub.net/9hjs5"
 img="https://github.com/krecik71/kret/blob/master/icon.png"
 fanart="https://github.com/krecik71/kret/blob/master/fanart.jpg"
 description="     "
