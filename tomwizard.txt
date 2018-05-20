@@ -1,10 +1,16 @@
 name="tom "
-url="https://kodihub.net/sewuq"
+url="https://kodihub.net/35wa2"
 img="https://github.com/krecik71/kret/blob/master/icon.png"
 fanart="https://github.com/krecik71/kret/blob/master/fanart.jpg"
 description="     "
 version="1.0.1"
 
+name="tom2 "
+url="https://kodihub.net/sewuq"
+img="https://github.com/krecik71/kret/blob/master/icon.png"
+fanart="https://github.com/krecik71/kret/blob/master/fanart.jpg"
+description="     "
+version="1.0.1"
 
 name="tom "
 version="1.0.1"
