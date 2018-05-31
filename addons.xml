@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
+	<addon id="repository.kret" name="[I][COLOR=red]kret[/COLOR][/I] Repository" provider-name="kret" version="0.0.1">
+  <extension point="xbmc.addon.repository">
+    <info>https://raw.githubusercontent.com/krecik71/kret/master/addons.xml</info>
+    <checksum>https://raw.githubusercontent.com/krecik71/kret/master/addons.xml.md5</checksum>
+    <datadir zip="true">https://github.com/krecik71/kret/tree/master/kret</datadir>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Repozytorium kret</summary>
+		<summary lang="pl">Repository kret</summary>
+		<description lang="en"></description>
+		<description lang="pl">Zapraszamy </description>
+	<disclaimer lang="en"> repo Kodi
+</disclaimer>
+    <website></website>
+    <platform>all</platform>
+	<source>https://github.com/krecik71/kret</source>
+		<email>banach2@poczta.fm</email>
+</extension>
+
+
+<addons>
 	
 	<addon id="plugin.video.mrknow"
        name="Filmy Online - mrknow.pl"
