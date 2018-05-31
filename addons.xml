@@ -59,6 +59,40 @@
         <email></email>
     </extension>
 </addon>
+<addon id="plugin.video.tvpsport" name="TVP SPORT" version="0.0.7" provider-name="c0d34fun">
+    <requires>
+        <import addon="xbmc.python" version="2.25.0"/>
+        <import addon="script.module.requests" version="2.12.4"/>
+        <import addon="script.module.inputstreamhelper" version="0.3.3"/>
+        <import addon="script.module.m3u8" version="0.2.10"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="addon.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <description lang="en">Watch TVP SPORT in Kodi!</description>
+        <disclaimer lang="en">This is not an official plugin! If the official application is available for your
+            platform, use it instead of this plugin. All rights to the content are reserved by Â©2018 TELEWIZJA POLSKA S.A.
+        </disclaimer>
+        <summary lang="en">TVP SPORT</summary>
+        <description lang="en">Watch TVP SPORT in Kodi!</description>
+        <disclaimer lang="en">This is not an official plugin! If the official application is available for your
+            platform, use it instead of this plugin. All rights to the content are reserved by Â©2018 TELEWIZJA POLSKA S.A.
+        </disclaimer>
+        <language>pl</language>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <website>https://sport.tvp.pl</website>
+        <assets>
+            <icon>resources/icon.png</icon>
+            <fanart>resources/fanart.jpg</fanart>
+            <screenshot>resources/screen01.jpg</screenshot>
+            <screenshot>resources/screen02.jpg</screenshot>
+            <screenshot>resources/screen03.jpg</screenshot>
+            <screenshot>resources/screen04.jpg</screenshot>
+        </assets>
+    </extension>
+</addon>
 
 	
 	
