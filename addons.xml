@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-
-	
-	<addon id="plugin.video.mrknow"
+<addon id="plugin.video.mrknow"
        name="Filmy Online - mrknow.pl"
        version="2017.06.14.2"
        provider-name="mrknow">
