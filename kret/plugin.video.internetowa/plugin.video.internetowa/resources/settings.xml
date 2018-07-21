@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<setting type="lsep" label="Twoje Konto Premium"/>
+	<setting id="name" type="text" label="Nazwa" default="" />
+	<setting id="pass" type="text" option="hidden" label="Hasło" default="" />
+	<setting type="sep"/>
+</settings>
