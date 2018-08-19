@@ -206,7 +206,22 @@
         <email></email>
     </extension>
 </addon>
-
+<addon id="plugin.program.tom" name="tom Wizard" version="1.0.2" provider-name="tom">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>program executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+		<summary lang="en">tom</summary>
+		<description lang="en">Aeon NOX + best addons+PL</description>
+		<disclaimer lang="en">Note: we are not responsible or have any influence to the content and their availability from Kodi Add-ons</disclaimer>
+		<platform>all</platform>
+		<facebook>xxx</facebook>
+		<website>xxx</website>
+	</extension>
+</addon>
 	
 	
 </addons>
