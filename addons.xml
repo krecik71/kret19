@@ -186,5 +186,27 @@
 	</news>
   </extension>
 </addon>
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.tom" name="tom-adonn" provider-name="tom" version="0.0.1">
+  <extension point="xbmc.addon.repository">
+    <info>https://raw.githubusercontent.com/krecik71/kret/master/addons.xml</info>
+    <checksum>https://raw.githubusercontent.com/krecik71/kret/master/addons.xml.md5</checksum>
+    <datadir zip="true">https://raw.githubusercontent.com/krecik71/kret/master/kret</datadir>
+  </extension>
+	<extension point="xbmc.addon.metadata">
+        <summary>kret Repository</summary>
+        <summary lang="pl">Repozytorium wtyczek kret</summary>
+        <summary lang="en">Addons repository</summary>
+        <description>Unofficial, private Addons repository.</description>
+        <disclaimer>Repository has non-comercial nature. Just for fun</disclaimer>
+        <disclaimer lang="pl">Zawartość repozytorium ma charakter niekomercyjny. Jest tworzona dla zabawy.</disclaimer>
+        <platform>all</platform>
+        <website>https://github.com/krecik71</website>
+        <email></email>
+    </extension>
+</addon>
+
+	
 	
 </addons>
