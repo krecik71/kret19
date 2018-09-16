@@ -1,0 +1,19 @@
+1.4.1
+- some fixes
+
+1.4
+- sport365 added
+
+1.3
+- tvmaniak added
+
+1.2
+- removed darmova-online
+- cloudflare fix
+
+1.1
+- tele-wizja.ru added
+- internetowa added
+
+1.0
+- initial version 
