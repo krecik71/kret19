@@ -156,12 +156,12 @@
 	</news>
   </extension>
 </addon>
-<addon id="repository.tom" name="Tom Kodi Addons Repository +poprawki i wtyczki kol.mbebe" provider-name="tom" version="0.0.1">
+<addon id="repository.tom" name="Tom Kodi Addons Repository +poprawki i wtyczki kol.mbebe" provider-name="tom" version="0.0.2">
   <extension point="xbmc.addon.repository">
     <info>https://raw.githubusercontent.com/krecik71/kret/master/addons.xml</info>
     <checksum>https://raw.githubusercontent.com/krecik71/kret/master/addons.xml.md5</checksum>
-    <datadir zip="true">https://raw.githubusercontent.com/krecik71/kret/master/kret</datadir>
-  </extension>
+    <datadir zip="true">https://github.com/krecik71/kret/raw/master/kret</datadir>
+ </extension>
 </addon>
 <addon id="plugin.program.tom" name="tom Wizard" version="1.0.2" provider-name="tom">
   <requires>
@@ -323,6 +323,37 @@ Do not install this addon if you are using a build.
   <news>
 
   </news>    
+  </extension>
+</addon>
+	<addon id="plugin.video.ekstraklasa" name="Ekstraklasa" version="3.2.2" provider-name="Proximus">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.resolveurl"/> 
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="main.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="pl">Mecze Ekstraklasy z Dailymotion i nie tylko</summary>
+    <description lang="en"></description>
+    <language></language>
+    <platform></platform>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+    <forum></forum>
+    <website></website>
+    <email></email>
+    <assets>
+        <icon>icon.png</icon>
+        <fanart>fanart.jpg</fanart>
+    </assets>
+  <news>
+Ekstrakalasa LIVE
+Ekstrakalasa.tv
+Estadios.pl
+Meczyki.pl
+Polsat Sport
+Łączy nas piłka
+ </news>
   </extension>
 </addon>
 	<addon id="plugin.video.filisertv" version="2.2" name="Fili.cc" provider-name="xxxxxx">
