@@ -160,7 +160,7 @@
   <extension point="xbmc.addon.repository">
     <info>https://raw.githubusercontent.com/krecik71/kret/master/addons.xml</info>
     <checksum>https://raw.githubusercontent.com/krecik71/kret/master/addons.xml.md5</checksum>
-    <datadir zip="true">https://github.com/krecik71/kret/raw/master/kret</datadir>
+    <datadir zip="true">https://raw.githubusercontent.com/krecik71/kret/master/kret</datadir>
  </extension>
 </addon>
 <addon id="plugin.program.tom" name="tom Wizard" version="1.0.2" provider-name="tom">
