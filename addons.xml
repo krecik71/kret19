@@ -78,29 +78,6 @@ CHERRY TV nie dostarcza bezpoĹ›rednio telewizji, filmĂłw, seriali, muzyki a
 		<platform>all</platform>
 	</extension>
 </addon>
-	
-	<addon id="plugin.video.meczreplay" name="MeczReplay" version="0.0.3" provider-name="panee">
-	<requires>
-		<import addon="xbmc.python" version="2.19.0" /> 
-		<import addon="script.module.resolveurl" version="5.0.09" />
-		<import addon="script.module.beautifulsoup4" version="4.5.3"/>  
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="playvideo.py">
-		<provides>video</provides>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<summary lang="en">MeczReplay</summary>
-		<description lang="en">MeczReplay</description>
-		<platform>all</platform>
-		<forum></forum>
-		<website></website>
-		<news></news>
-		<genre>movies,tvshows,usa</genre>
-		<video_guide></video_guide>
-		<video_preview></video_preview>
-	</extension>
-</addon>
-
 	<addon id="plugin.video.playlistLoader" name="Playlist Loader" version="1.2.0" provider-name="Avigdor">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -122,6 +99,17 @@ CHERRY TV nie dostarcza bezpoĹ›rednio telewizji, filmĂłw, seriali, muzyki a
 	</news>
   </extension>
 </addon>
+	
+<addon id="repository.ff" name="Repo FF" provider-name="panee" version="0.0.2">
+  <extension point="xbmc.addon.repository">
+    <info>https://raw.githubusercontent.com/paneee/RepoFF/master/addons.xml</info>
+    <checksum>https://raw.githubusercontent.com/paneee/RepoFF/master/addons.xml.md5</checksum> 
+    <datadir zip="true">https://raw.githubusercontent.com/paneee/RepoFF/master/ff</datadir>
+	<summary>Repo FF</summary> 
+    <description>Repo FF</description> 
+  </extension>
+</addon>
+
 <addon id="repository.tom" name="Tom Kodi Addons Repository +poprawki i wtyczki kol.mbebe" provider-name="tom" version="0.0.2">
   <extension point="xbmc.addon.repository">
     <info>https://raw.githubusercontent.com/krecik71/kret/master/addons.xml</info>
