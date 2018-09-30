@@ -1,31 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.video.TVP.pl" name="TVP.pl" version="2.1.9" provider-name="Podpis">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.module.inputstreamhelper" version="0.3.3"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="addon.py">
-    <provides>video</provides>
+
+<addon id="repository.podpis" name="Podpis Kodi Add-ons Repository" version="1.4.2" provider-name="Podpis">
+    <extension point="xbmc.addon.repository" name="Podpis Kodi Add-ons Repository">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/podpis/kodi/master/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/podpis/kodi/master/addons.xml.md5</checksum>
+            <datadir zip="true">https://github.com/podpis/kodi/raw/master/zips</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Podpis Repository</summary>
+        <summary lang="pl">Repozytorium wtyczek Podpis</summary>
+        <summary lang="en">Addons repository</summary>
+        <description>Unofficial, private Addons repository.</description>
+        <disclaimer>Repository has non-comercial nature. Just for fun</disclaimer>
+        <disclaimer lang="pl">Zawartość repozytorium ma charakter niekomercyjny. Jest tworzona dla zabawy.</disclaimer>
+        <platform>all</platform>
+        <website>https://github.com/podpis/kodi/</website>
+        <email></email>
+    </extension>
+</addon>
+	<addon id="repository.cherrytv" name="[I][COLOR=blue]CHERRY[/COLOR] [COLOR=red]TV[/COLOR][/I] Repository" provider-name="KODI CHERRY" version="1.3.6">
+  <extension point="xbmc.addon.repository">
+    <info>https://raw.githubusercontent.com/CherryKodi/CHERRY/master/addons.xml</info>
+    <checksum>https://raw.githubusercontent.com/CherryKodi/CHERRY/master/addons.xml.md5</checksum>
+    <datadir zip="true">https://github.com/CherryKodi/CHERRY/raw/master/zips</datadir>
   </extension>
   <extension point="xbmc.addon.metadata">
-	<summary lang="en">Zasoby serwisu tvp.pl oraz vod.tvp.pl</summary>
-	<description lang="en">Zasoby serwisu tvp.pl oraz vod.tvp.pl</description>
-	<disclaimer lang="en">A private use only. For bugs, requests or general questions visit my repository https://github.com/podpis/kodi</disclaimer>
-	<language>pl</language>
-	<platform>all</platform>
-	<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-	<forum>https://github.com/podpis/kodi/issues</forum>
-	<website>https://github.com/podpis/kodi</website>
-	<email></email>
-	<assets>
-		<icon>icon.png</icon>
-		<fanart>fanart.jpg</fanart>
-	</assets>
-	<news>Róbta co chceta! :)</news>
+    <summary lang="en">CHERRY TV Repository</summary>
+    <description lang="en">"CHERRY TV"  podlega prawom wĹ‚asnoĹ›ci intelektualnej naleĹĽÄ…cym do KODI CHERRY.CHERRY TV nie udostepnia telewizji online,korzysta jedynie z kont premium udostepnionych w sieci.Zabrania siÄ™ sprzedaĹĽny i rozpowszechniania.</description>
+	<disclaimer lang="en">Kodi jest programem darmowym. Wtyczki, ktĂłre sÄ… zawarte w projekcie CHERRY TV  sÄ… rĂłwnieĹĽ darmowe i powszechnie dostÄ™pne w internecie dla kaĹĽdego.
+CHERRY TV nie dostarcza bezpoĹ›rednio telewizji, filmĂłw, seriali, muzyki ani ĹĽadnych treĹ›ci audio/wideo. CHERRY TV nie udostepnia telewizji online,korzysta jedynie z kont premium udostepnionych w sieci.Jest jedynie zbiorem wtyczek. Projekt ten ma jedynie uĹ‚atwiÄ‡ uĹĽytkownikowi ustawianie programu Kodiczy instalacje wtyczek . JeĹĽeli dana wtyczka nie dziaĹ‚a zgodnie z zaĹ‚oĹĽeniem naleĹĽny kontaktowaÄ‡ siÄ™ z jej autorem. JeĹĽeli stan taki siÄ™ utrzymuje dĹ‚uĹĽnej moĹĽe zostaÄ‡ taka wtyczka usuniÄ™ta oraz bÄ™dzie szukana alternatywa.
+</disclaimer>
+    <website>https://cherrytv.webd.pl/</website>
+    <platform>all</platform>
   </extension>
 </addon>
-	<addon id="plugin.video.darmowatv" name="darmowaTv" version="1.5.2" provider-name="xxxxxx">
+		<addon id="plugin.video.darmowatv" name="darmowaTv" version="1.5.2" provider-name="xxxxxx">
     <requires>
         <import addon="xbmc.python" version="2.25.0"/>
         <import addon="script.module.requests" />
@@ -48,33 +60,6 @@
         </assets>
     </extension>
 </addon>
-<addon id="plugin.video.sport365.live" name="Sport365" version="1.0" provider-name="GalAnonim">
-    <requires>
-        <import addon="xbmc.python" version="2.1.0"/>
-        <import addon="service.cronxbmc" optional="true"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="main.py">
-        <provides>video</provides>
-    </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">Sport365</summary>
-    <description lang="en">Sport365</description>
-    <disclaimer lang="en">Wtyczka tworzona na użytek prywatny, autor nie odpowiada za jej nieodpowienie wykorzystywanie oraz rozpowszechnianie! Wszystkie treści multimedialne są własnością strony sport365.live! Kod pochodzi od RamicSPA</disclaimer>
-    <language></language>
-    <platform>all</platform>
-    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-    <forum></forum>
-    <website></website>
-    <email></email>
-  <assets>
-    <icon>icon.png</icon>
-    <fanart>fanart.png</fanart>
-  </assets>
-  <news>
-   Pierwsza wersja :)
-  </news>    
-  </extension>
-</addon>
 <addon id="plugin.video.internetowa" version="1.0" name="Internetowa.ws" provider-name="Internetowa.ws">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0"/>
@@ -93,26 +78,7 @@
 		<platform>all</platform>
 	</extension>
 </addon>
-<addon id="repository.podpis" name="Podpis Kodi Add-ons Repository" version="1.4.2" provider-name="Podpis">
-    <extension point="xbmc.addon.repository" name="Podpis Kodi Add-ons Repository">
-        <dir>
-            <info compressed="false">https://raw.githubusercontent.com/podpis/kodi/master/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/podpis/kodi/master/addons.xml.md5</checksum>
-            <datadir zip="true">https://github.com/podpis/kodi/raw/master/zips</datadir>
-        </dir>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <summary>Podpis Repository</summary>
-        <summary lang="pl">Repozytorium wtyczek Podpis</summary>
-        <summary lang="en">Addons repository</summary>
-        <description>Unofficial, private Addons repository.</description>
-        <disclaimer>Repository has non-comercial nature. Just for fun</disclaimer>
-        <disclaimer lang="pl">Zawartość repozytorium ma charakter niekomercyjny. Jest tworzona dla zabawy.</disclaimer>
-        <platform>all</platform>
-        <website>https://github.com/podpis/kodi/</website>
-        <email></email>
-    </extension>
-</addon>
+	
 	<addon id="plugin.video.meczreplay" name="MeczReplay" version="0.0.3" provider-name="panee">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" /> 
@@ -178,6 +144,32 @@
 		<facebook>xxx</facebook>
 		<website>xxx</website>
 	</extension>
+</addon>
+
+<addon id="plugin.video.TVP.pl" name="TVP.pl" version="2.1.9" provider-name="Podpis">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.inputstreamhelper" version="0.3.3"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+	<summary lang="en">Zasoby serwisu tvp.pl oraz vod.tvp.pl</summary>
+	<description lang="en">Zasoby serwisu tvp.pl oraz vod.tvp.pl</description>
+	<disclaimer lang="en">A private use only. For bugs, requests or general questions visit my repository https://github.com/podpis/kodi</disclaimer>
+	<language>pl</language>
+	<platform>all</platform>
+	<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+	<forum>https://github.com/podpis/kodi/issues</forum>
+	<website>https://github.com/podpis/kodi</website>
+	<email></email>
+	<assets>
+		<icon>icon.png</icon>
+		<fanart>fanart.jpg</fanart>
+	</assets>
+	<news>Róbta co chceta! :)</news>
+  </extension>
 </addon>
 	<addon id="plugin.video.alltube.tv" version="2.5.5b" name="alltube.tv" provider-name="Podpis">
 <requires>
@@ -548,40 +540,6 @@ DostÄ™p do serwisu bez polskiego IP
   <news>
 </news>
 </extension>
-</addon>
-	<addon id="plugin.video.tvpsport" name="TVP SPORT" version="0.0.7" provider-name="c0d34fun">
-    <requires>
-        <import addon="xbmc.python" version="2.25.0"/>
-        <import addon="script.module.requests" version="2.12.4"/>
-        <import addon="script.module.inputstreamhelper" version="0.3.3"/>
-        <import addon="script.module.m3u8" version="0.2.10"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="addon.py">
-        <provides>video</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <description lang="en">Watch TVP SPORT in Kodi!</description>
-        <disclaimer lang="en">This is not an official plugin! If the official application is available for your
-            platform, use it instead of this plugin. All rights to the content are reserved by Â©2018 TELEWIZJA POLSKA S.A.
-        </disclaimer>
-        <summary lang="en">TVP SPORT</summary>
-        <description lang="en">Watch TVP SPORT in Kodi!</description>
-        <disclaimer lang="en">This is not an official plugin! If the official application is available for your
-            platform, use it instead of this plugin. All rights to the content are reserved by Â©2018 TELEWIZJA POLSKA S.A.
-        </disclaimer>
-        <language>pl</language>
-        <platform>all</platform>
-        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website>https://sport.tvp.pl</website>
-        <assets>
-            <icon>resources/icon.png</icon>
-            <fanart>resources/fanart.jpg</fanart>
-            <screenshot>resources/screen01.jpg</screenshot>
-            <screenshot>resources/screen02.jpg</screenshot>
-            <screenshot>resources/screen03.jpg</screenshot>
-            <screenshot>resources/screen04.jpg</screenshot>
-        </assets>
-    </extension>
 </addon>
 <addon id="plugin.video.viderpl" version="1.6" name="vider" provider-name="xxxxxx">
 <requires>
