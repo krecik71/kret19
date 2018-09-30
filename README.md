@@ -11,3 +11,4 @@ https://krecik71.github.io/kret/
 |---|---|---|---|
 |<img src="https://raw.githubusercontent.com/krecik71/kret/master/kret/plugin.program.tom/icon.png" width="48">|plugin.program.tom|1.0.2|[2018-9-27](https://raw.githubusercontent.com/krecik71/kret/master/kret/plugin.program.tom/changelog.txt)
 |<img src="https://raw.githubusercontent.com/krecik71/kret/master/kret/plugin.video.TVP.pl/icon.png" width="48">|plugin.video.TVP.pl|2.1.9|[2018-9-30](https://raw.githubusercontent.com/krecik71/kret/master/kret/plugin.video.TVP.pl/changelog.txt)
+|<img src="https://raw.githubusercontent.com/krecik71/kret/master/kret/plugin.video.alltube.tv/icon.png" width="48">|plugin.video.alltube.tv|2.5.5b|[2018-9-30](https://raw.githubusercontent.com/krecik71/kret/master/kret/plugin.video.alltube.tv/changelog.txt)
