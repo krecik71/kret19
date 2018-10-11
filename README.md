@@ -9,6 +9,7 @@ https://krecik71.github.io/kret/
 ## Zawartość repozytorium
 |Wtyczka|Nazwa|Wersja|Aktualizacja|
 |---|---|---|---|
+|<img src="https://raw.githubusercontent.com/krecik71/kret/master/kret/plugin.program.echowizard/icon.png" width="48">|plugin.program.echowizard|2.00.001|[2018-10-11](https://raw.githubusercontent.com/krecik71/kret/master/kret/plugin.program.echowizard/changelog.txt)
 |<img src="https://raw.githubusercontent.com/krecik71/kret/master/kret/plugin.program.tom/icon.png" width="48">|plugin.program.tom|1.0.2|[2018-9-27](https://raw.githubusercontent.com/krecik71/kret/master/kret/plugin.program.tom/changelog.txt)
 |<img src="https://raw.githubusercontent.com/krecik71/kret/master/kret/plugin.video.TVP.pl/icon.png" width="48">|plugin.video.TVP.pl|2.1.9|[2018-9-30](https://raw.githubusercontent.com/krecik71/kret/master/kret/plugin.video.TVP.pl/changelog.txt)
 |<img src="https://raw.githubusercontent.com/krecik71/kret/master/kret/plugin.video.alltube.tv/icon.png" width="48">|plugin.video.alltube.tv|2.5.5b|[2018-9-30](https://raw.githubusercontent.com/krecik71/kret/master/kret/plugin.video.alltube.tv/changelog.txt)
@@ -30,6 +31,7 @@ https://krecik71.github.io/kret/
 |<img src="https://raw.githubusercontent.com/krecik71/kret/master/kret/plugin.video.playlistLoader/icon.png" width="48">|plugin.video.playlistLoader|1.2.0|[2018-9-30](https://github.com/krecik71/kret/blob/master/kret/plugin.video.playlistLoader/changelog.txt)
 |<img src="https://raw.githubusercontent.com/krecik71/kret/master/kret/plugin.video.segos/icon.png" width="48">|plugin.video.segos|3.3|[2018-9-30](https://raw.githubusercontent.com/krecik71/kret/master/kret/plugin.video.segos/changelog.txt)
 |<img src="https://raw.githubusercontent.com/krecik71/kret/master/kret/plugin.video.serialosypl/icon.png" width="48">|plugin.video.serialosypl|1.8|[2018-9-30](https://raw.githubusercontent.com/krecik71/kret/master/kret/plugin.video.serialosypl/changelog.txt)
+|<img src="https://raw.githubusercontent.com/krecik71/kret/master/kret/plugin.video.videopenny/icon.png" width="48">|plugin.video.videopenny|1.0|[2018-10-11](https://raw.githubusercontent.com/krecik71/kret/master/kret/plugin.video.videopenny/changelog.txt)
 |<img src="https://raw.githubusercontent.com/krecik71/kret/master/kret/plugin.video.viderpl/icon.png" width="48">|plugin.video.viderpl|1.6|[2018-9-30](https://raw.githubusercontent.com/krecik71/kret/master/kret/plugin.video.viderpl/changelog.txt)
 |<img src="https://raw.githubusercontent.com/krecik71/kret/master/kret/plugin.video.zalukajcom/icon.png" width="48">|plugin.video.zalukajcom|1.7.3|[2018-9-30](https://raw.githubusercontent.com/krecik71/kret/master/kret/plugin.video.zalukajcom/changelog.txt)
 |<img src="https://raw.githubusercontent.com/krecik71/kret/master/kret/repository.cherrytv/icon.png" width="48">|repository.cherrytv|1.3.6|[2018-9-30](https://raw1.githubusercontent.com/krecik71/kret/master/kret/plugin.video.zalukajcom/changelog.txt)
