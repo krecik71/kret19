@@ -32,6 +32,21 @@
         <email></email>
     </extension>
 </addon>
+	<addon id="repository.polishteam" name="PolishTeam_Repo" version="0.0.6" provider-name="Polish Team">
+	<extension point="xbmc.addon.repository" name="PolishTeam-Repo">
+		<info compressed="false">http://polishteam.cherrytv.webd.pl/PolishTeam/addons.xml</info>
+		<checksum>http://polishteam.cherrytv.webd.pl/PolishTeam/addons.xml.md5</checksum>
+		<datadir zip="true">http://polishteam.cherrytv.webd.pl/PolishTeam/</datadir>
+		<datadir zip="true">https://github.com/CherryKodi/PolishTeam/tree/master/zips</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Repozytorium wizardow Polish Team</summary>
+		<description>Druga WERSJA</description> 
+		<platform>all</platform>
+		<license>GNUv3</license>
+		<website>http://polishteam.cherrytv.webd.pl/</website>
+	</extension>
+</addon>
 	<addon id="repository.cherrytv" name="[I][COLOR=blue]CHERRY[/COLOR] [COLOR=red]TV[/COLOR][/I] Repository" provider-name="KODI CHERRY" version="1.3.6">
   <extension point="xbmc.addon.repository">
     <info>https://raw.githubusercontent.com/CherryKodi/CHERRY/master/addons.xml</info>
