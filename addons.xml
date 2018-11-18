@@ -182,6 +182,24 @@ CHERRY TV nie dostarcza bezpoĹ›rednio telewizji, filmĂłw, seriali, muzyki a
     <description>Repo FF</description> 
   </extension>
 </addon>
+	
+	<addon id="plugin.program.tom" name="TOM" version="1.0.3" provider-name="TOM">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.kodi.loguploader"/>
+	<import addon="script.module.requests"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.service" library="startup.py" start="startup" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">TOM Wizard</summary>
+    <description lang="en">TOM Custom Builds.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
 
 <addon id="repository.tom" name="Tom Kodi Addons Repository +poprawki i wtyczki kol.mbebe" provider-name="tom" version="0.0.2">
   <extension point="xbmc.addon.repository">
