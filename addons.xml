@@ -141,7 +141,7 @@ CHERRY TV nie dostarcza bezpoĹ›rednio telewizji, filmĂłw, seriali, muzyki a
   </extension>
 </addon>
 
-       <addon id="plugin.video.tom" name="tom" version="1.0.2" provider-name="tom">
+       <addon id="plugin.video.tom" name="tom" version="1.0.3" provider-name="tom">
   <requires>
     <import addon="script.module.t0mm0.common" version="2.0.0"/>
     <import addon="script.module.beautifulsoup" version="3.2.1"/>
