@@ -32,8 +32,8 @@
         </assets>
     </extension>
 </addon>
-
-	<addon id="plugin.video.Tom 19" name="Tom" version="1.0.0" provider-name="Tom">
+	
+<addon id="plugin.video.Tom19" name="Tom" version="1.0.0" provider-name="Tom">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.requests" version="2.22.0"/>
@@ -54,7 +54,7 @@
   </extension>
 </addon>
 	
-	<addon id="plugin.video.TomIPTV2 19"
+<addon id="plugin.video.Tom2IPTV19"
        name="IPTV Player for Kodi 19"
        version="1.0.0"
        provider-name="Tom">
