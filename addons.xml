@@ -117,12 +117,25 @@
     </extension>
 </addon>
 	
-<addon id="repository.tom" name="Tom Kodi Addons Repository +poprawki i wtyczki kol.mbebe" provider-name="tom" version="0.0.2">
-  <extension point="xbmc.addon.repository">
-    <info>https://raw.githubusercontent.com/krecik71/kret/master/addons.xml</info>
-    <checksum>https://raw.githubusercontent.com/krecik71/kret/master/addons.xml.md5</checksum>
-    <datadir zip="true">https://raw.githubusercontent.com/krecik71/kret/master/kret</datadir>
- </extension>
+<addon id="repository.TomK19" name="Tom_Repo_K19" version="0.0.1" provider-name="Tom">
+	<extension point="xbmc.addon.repository" name="PolishTeam-Repo">
+	<dir>
+		<info compressed="false">https://raw.githubusercontent.com/krecik71/kret19/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/krecik71/kret19/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://github.com/krecik71/kret19/raw/master/kret19</datadir>
+	</dir>	
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Repozytorium  Tom</summary>
+		<description>Tom Kodi19 Addons Repository +poprawki i wtyczki kol.mbebe. Zawartość repozytorium ma charakter niekomercyjny i jest tworzona dla zabawy. Wtyczki i repozytoria są znalezione w sieci i nie są moją własnością</description> 
+		<platform>all</platform>
+		<license>GNUv3</license>
+		<website></website>
+		<assets> <!-- poprawka ikon -->
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>			
+		</assets>
+	</extension>
 </addon>
 
 	
