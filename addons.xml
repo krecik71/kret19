@@ -33,7 +33,7 @@
     </extension>
 </addon>
 	
-<addon id="plugin.video.Tom19" name="Tom" version="1.0.0" provider-name="Tom">
+<addon id="plugin.video.Tom19" name="Tom19" version="1.0.0" provider-name="Tom">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.requests" version="2.22.0"/>
@@ -55,7 +55,7 @@
 </addon>
 	
 <addon id="plugin.video.Tom2IPTV19"
-       name="IPTV Player for Kodi 19"
+       name="IPTV Player2 for Kodi 19"
        version="1.0.0"
        provider-name="Tom">
   <requires>
@@ -67,9 +67,9 @@
         <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">IPTV Player</summary>
+    <summary lang="en">IPTV Player2</summary>
     <language>en</language>
-    <description lang="en">IPTV Player</description>
+    <description lang="en">IPTV Player2</description>
      <platform>all</platform>
 	 <assets>
 			<icon>icon.png</icon>
@@ -138,6 +138,71 @@
 	</extension>
 </addon>
 
+<addon id="repository.kodiwpigulce.pl.k19" name="Kodiwpigulce.pl K19 repository" version="1.0" provider-name="www.kodiwpigulce.pl">
+	<extension point="xbmc.addon.repository" name="Kodiwpigulce.pl K19 repository">
+		<info compressed="true">https://kodiwpigulce.pl/zip/k19/addons.xml</info>
+		<checksum>https://kodiwpigulce.pl/zip/k19/addons.xml.md5</checksum>
+		<datadir zip="true">https://kodiwpigulce.pl/zip/k19/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Repozytorium wtyczek www.kodiwpigulce.pl dla Kodi 19.</summary>
+        <description>Zapraszamy po więcej wtyczek na www.kodiwpigulce.pl</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+	
+	<addon id="repository.polishteamK19" name="PolishTeam_Repo_K19" version="0.0.5" provider-name="Polish Team">
+	<extension point="xbmc.addon.repository" name="PolishTeam-Repo">
+	<dir>
+		<info compressed="false">http://polishteam.ru/REPOK19/addons.xml</info>
+		<checksum>http://polishteam.ru/REPOK19/addons.xml.md5</checksum>
+		<datadir zip="true">http://polishteam.ru/REPOK19/</datadir>
+		<datadir zip="true"></datadir>
+	</dir>
+	<dir minversion="18.9.0">
+		<info compressed="false">https://raw.githubusercontent.com/fanfilm/repository.fanfilm/master/zips19/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/fanfilm/repository.fanfilm/master/zips19/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.github.com/fanfilm/repository.fanfilm/master/zips19</datadir>
+	</dir>
+	<dir> <!-- https://raw.githubusercontent.com/fanfilm/repository.fanfilm/master/zips19/addons.xmlresolvera -->
+		<info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
+	</dir>	
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Repozytorium wizardow Polish Team</summary>
+		<description></description> 
+		<platform>all</platform>
+		<license>GNUv3</license>
+		<website>http://polishteam.ru/</website>
+		<assets> <!-- poprawka ikon -->
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>			
+		</assets>
+	</extension>
+</addon>
+	
+	
+	<addon id="repository.pltwcollectionk19" name="PTW Collection K19" provider-name="KODI CHERRY" version="0.0.7">
+  <extension point="xbmc.addon.repository">
+	<dir>
+		<info>https://polishteam.ru/REPA/CollectionK19/zip/addons.xml</info>
+		<checksum>https://polishteam.ru/REPA/CollectionK19/zip/addons.xml.md5</checksum>
+		<datadir zip="true">https://polishteam.ru/REPA/CollectionK19/zip/</datadir>
+	</dir>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">PTW Collection K19</summary>
+    <description lang="en">Dodatki pod matrixa zebrane przez team PLTW</description>
+	<disclaimer lang="en">Kodi jest programem darmowym. Wtyczki, które są zawarte w projekcie PLTW  są również darmowe i powszechnie dostępne w internecie dla każdego.
+	CHERRY TV nie dostarcza bezpośrednio telewizji, filmów, seriali, muzyki ani żadnych treści audio/wideo. CHERRY TV nie udostepnia telewizji online,korzysta jedynie z kont premium udostepnionych w sieci.Jest jedynie zbiorem wtyczek. Projekt ten ma jedynie ułatwić użytkownikowi ustawianie programu Kodiczy instalacje wtyczek . Jeżeli dana wtyczka nie działa zgodnie z założeniem należny kontaktować się z jej autorem. Jeżeli stan taki się utrzymuje dłużnej może zostać taka wtyczka usunięta oraz będzie szukana alternatywa.
+	</disclaimer>
+    <website>https://polishteam.ru/</website>
+    <platform>all</platform>
+  </extension>
+</addon>
+	
 	
 
 </addons>
