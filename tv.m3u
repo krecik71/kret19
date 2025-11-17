@@ -1,848 +1,1019 @@
 #EXTM3U
-
-#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
-https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
-
-#EXTINF:-1 tvg-logo="https://img.freeflagicons.com/thumb/round_icon/poland/poland_640.png" group-title="[PL] INFORMACJE", ##### [PL] INFORMACJE #####
-http://dm.lion-ott.com:80/jocelyne/jocelyne/763254
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/tvn24bis.png" group-title="[PL] INFORMACJE", [PL] TVN24 BIS HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689639
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/tvn24hd.png" group-title="[PL] INFORMACJE", [PL] TVN24 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689640
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/tvpinfo.png" group-title="[PL] INFORMACJE", [PL] TVP INFO HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689649
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/polsatnewshd.png" group-title="[PL] INFORMACJE", [PL] POLSAT NEWS HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689711
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/polsatnews2.png" group-title="[PL] INFORMACJE", [PL] POLSAT NEWS 2
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689785
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/tvrepublika.png" group-title="[PL] INFORMACJE", [PL] TV REPUBLIKA
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689809
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/cnnihd.png" group-title="[PL] INFORMACJE", [PL] CNNI HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/690390
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/wpolscepl.png" group-title="[PL] INFORMACJE", [PL] WPOLSCE
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689821
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/WYDARZENIA-24.png" group-title="[PL] INFORMACJE", PL - WYDARZENIA 24
-http://dm.lion-ott.com:80/jocelyne/jocelyne/986068
-
-#EXTINF:-1 tvg-logo="https://img.freeflagicons.com/thumb/round_icon/poland/poland_640.png" group-title="[PL] FILMOWE", ##### [PL] FILMOWE #####
-http://dm.lion-ott.com:80/jocelyne/jocelyne/763255
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/tvnfabula.png" group-title="[PL] FILMOWE", [PL] TVN FABULA HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689636
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/polsatseriale.png" group-title="[PL] FILMOWE", [PL] POLSAT SERIALE HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689645
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/polsatrodzina.png" group-title="[PL] FILMOWE", [PL] POLSAT RODZINA HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689646
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/polsatfilmhd.png" group-title="[PL] FILMOWE", [PL] POLSAT FILM HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689647
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/canalplus1hd.png" group-title="[PL] FILMOWE", [PL] CANAL+ 1 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689651
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/canalplusnowhd.png" group-title="[PL] FILMOWE", [PL] CANAL+ NOW HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689653
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/canalplus.png" group-title="[PL] FILMOWE", [PL] CANAL+ PREMIUM HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689654
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/canalplusfamilyhd.png" group-title="[PL] FILMOWE", [PL] CANAL+ FAMILY HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689652
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/canalplusserialehd.png" group-title="[PL] FILMOWE", [PL] CANAL+ SERIALE HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689655
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/HBO-2-HD.jpg" group-title="[PL] FILMOWE", [PL] HBO 2 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689656
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/hbo3hd.png" group-title="[PL] FILMOWE", [PL] HBO 3 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689657
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/HBO-HD.png" group-title="[PL] FILMOWE", [PL] HBO HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689658
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/alekinoplushd.png" group-title="[PL] FILMOWE", [PL] ALE KINO+ HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689659
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/canalplusfilmhd.png" group-title="[PL] FILMOWE", [PL] CANAL+ FILM HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689661
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/axnhd.png" group-title="[PL] FILMOWE", [PL] AXN HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689662
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/axnspinhd.png" group-title="[PL] FILMOWE", [PL] AXN SPIN HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689663
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/cinemax2hd.png" group-title="[PL] FILMOWE", [PL] CINEMAX 2 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689664
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/comedycentralpolandhd.png" group-title="[PL] FILMOWE", [PL] COMEDY CENTRAL HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689665
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/comedycentralpolandhd.png" group-title="[PL] FILMOWE", [PL] COMEDY CENTRAL POLAND HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689666
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/cinemaxhd.png" group-title="[PL] FILMOWE", [PL] CINEMAX HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689667
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/filmboxpremium.png" group-title="[PL] FILMOWE", [PL] FILMBOX PREMIUM HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689669
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/foxcomedyhd.png" group-title="[PL] FILMOWE", [PL] FOX COMEDY HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689672
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/kinotv.png" group-title="[PL] FILMOWE", [PL] KINO TV HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689674
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/kinopolska.png" group-title="[PL] FILMOWE", [PL] KINO POLSKA HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689676
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/foxhd.png" group-title="[PL] FILMOWE", [PL] FOX HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689675
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/TLC-HD.png" group-title="[PL] FILMOWE", [PL] TLC HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689678
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/paramountchannelhd.png" group-title="[PL] FILMOWE", [PL] PARAMOUNT CHANNEL HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689680
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/scifiuniversal.png" group-title="[PL] FILMOWE", [PL] SCIFI UNIVERSAL HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689701
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/amchd.png" group-title="[PL] FILMOWE", [PL] AMC HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689719
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/NOVELAS+.png" group-title="[PL] FILMOWE", [PL] NOVELAS+ HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689742
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/redcarpettv.png" group-title="[PL] FILMOWE", [PL] RED CARPET TV HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689757
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/axnblackhd.png" group-title="[PL] FILMOWE", [PL] AXN BLACK
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689776
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/axnwhitehd.png" group-title="[PL] FILMOWE", [PL] AXN WHITE
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689777
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/bbcfirst.png" group-title="[PL] FILMOWE", [PL] BBC FIRST HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689703
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/cbseuropa.png" group-title="[PL] FILMOWE", [PL] CBS EUROPA HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689721
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/romancetvhd.png" group-title="[PL] FILMOWE", [PL] ROMANCE TV HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689758
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/filmboxaction.png" group-title="[PL] FILMOWE", [PL] FILMBOX ACTION
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689779
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/filmboxarthouse.png" group-title="[PL] FILMOWE", [PL] FILMBOX ARTHOUSE
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689780
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/filmboxfamily.png" group-title="[PL] FILMOWE", [PL] FILMBOX FAMILY
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689781
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/kinopolskamuzyka.png" group-title="[PL] FILMOWE", [PL] KINO POLSKA MUZYKA
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689799
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/activefamily.png" group-title="[PL] FILMOWE", [PL] ACTIVE FAMILY
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689778
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/epicdramahd.png" group-title="[PL] FILMOWE", [PL] EPIC DRAMA HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689731
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/vod208.png" group-title="[PL] FILMOWE", [PL] VOD 205
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689815
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/vod208.png" group-title="[PL] FILMOWE", [PL] VOD 206
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689816
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/vod208.png" group-title="[PL] FILMOWE", [PL] VOD 207
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689817
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/vod208.png" group-title="[PL] FILMOWE", [PL] VOD 208
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689818
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/tvpseriale.png" group-title="[PL] FILMOWE", [PL] TVP SERIALE
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689823
-
-#EXTINF:-1 tvg-logo="https://img.freeflagicons.com/thumb/round_icon/poland/poland_640.png" group-title="[PL] KULTURA", ##### [PL] KULTURA #####
-http://dm.lion-ott.com:80/jocelyne/jocelyne/763257
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/travelchannelhd.png" group-title="[PL] KULTURA", [PL] TRAVEL CHANNEL HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689707
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/tvn24biznesiswiat.png" group-title="[PL] KULTURA", [PL] BIZNES24 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689708
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/canalplusdokumenthd.png" group-title="[PL] KULTURA", [PL] CANAL+ DOKUMENT HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689710
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/natgeopeoplehd.png" group-title="[PL] KULTURA", [PL] NAT GEO PEOPLE HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689712
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/natgeowildhd.png" group-title="[PL] KULTURA", [PL] NAT GEO WILD HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689713
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/animalplanethdpolish.png" group-title="[PL] KULTURA", [PL] ANIMAL PLANET HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689715
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/planeteplushd.png" group-title="[PL] KULTURA", [PL] PLANETE+ HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689747
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/crimeinvestigationnetwork.png" group-title="[PL] KULTURA", [PL] CRIME AND INVESTIGATION HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689723
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/discoveryhd.png" group-title="[PL] KULTURA", [PL] DISCOVERY HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689724
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/discoverysciencehd.png" group-title="[PL] KULTURA", [PL] DISCOVERY SCIENCE HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689726
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/eentertainmenthd.png" group-title="[PL] KULTURA", [PL] E! ENTERTAINMENT HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689730
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/foodnetworkhd.png" group-title="[PL] KULTURA", [PL] FOOD NETWORK HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689671
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/adventurehd.png" group-title="[PL] KULTURA", [PL] ADVENTURE HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689718
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/H2--HD.jpg" group-title="[PL] KULTURA", [PL] H2 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689734
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/INVESTIGATION-DISCOVERY.png" group-title="[PL] KULTURA", [PL] ID HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689736
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/VIASAT-EXPLORER.png" group-title="[PL] KULTURA", [PL] POLSAT VIASAT EXPLORE HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689754
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/VIASAT-HISTORY-HD.jpg" group-title="[PL] KULTURA", [PL] POLSAT VIASAT HISTORY HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689755
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/VIASAT-NATURE-HD.png" group-title="[PL] KULTURA", [PL] POLSAT VIASAT NATURE HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689756
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/TVP-DOKUMENT.jpeg" group-title="[PL] KULTURA", [PL] TVP DOKUMENT HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689764
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/tvpkultura.png" group-title="[PL] KULTURA", [PL] TVP KULTURA HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689765
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/historyhd.png" group-title="[PL] KULTURA", [PL] HISTORY HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689768
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/tvphistoria.png" group-title="[PL] KULTURA", [PL] TVP HISTORIA
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689774
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/discoveryhistoria.png" group-title="[PL] KULTURA", [PL] DISCOVERY HISTORIA
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689784
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/davincilearning.png" group-title="[PL] KULTURA", [PL] DA VINCI LEARNING
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689788
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/HOME-TV.jpg" group-title="[PL] KULTURA", [PL] HOME TV
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689798
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/waterplanet.png" group-title="[PL] KULTURA", [PL] WATER PLANET
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689819
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/polsathd.png" group-title="[PL] OGÓLNE", [PL] POLSAT HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689643
-
-#EXTINF:-1 tvg-logo="https://img.freeflagicons.com/thumb/round_icon/poland/poland_640.png" group-title="[PL] OGÓLNE", ##### [PL] OGÓLNE #####
-http://dm.lion-ott.com:80/jocelyne/jocelyne/763256
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/tvp1hd.png" group-title="[PL] OGÓLNE", [PL] TVP 1 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689632
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/tvp2hd.png" group-title="[PL] OGÓLNE", [PL] TVP 2 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689633
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/tvnhd.png" group-title="[PL] OGÓLNE", [PL] TVN HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689634
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/tvn7hd.png" group-title="[PL] OGÓLNE", [PL] TVN 7 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689635
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/tvnstylehd.png" group-title="[PL] OGÓLNE", [PL] TVN STYLE HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689637
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/tvnturbohd.png" group-title="[PL] OGÓLNE", [PL] TVN TURBO HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689638
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/tv4hd.png" group-title="[PL] OGÓLNE", [PL] TV4 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689642
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/tv6_HD.png" group-title="[PL] OGÓLNE", [PL] TV6 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689641
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/tvphd.png" group-title="[PL] OGÓLNE", [PL] TVP HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689648
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/tvpolonia.png" group-title="[PL] OGÓLNE", [PL] POLONIA HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689770
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/polsat2hd.png" group-title="[PL] OGÓLNE", [PL] POLSAT 2 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689644
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/13ulicahd.png" group-title="[PL] OGÓLNE", [PL] 13 ULICA HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689660
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/fokustv.png" group-title="[PL] OGÓLNE", [PL] FOKUS TV HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689670
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/puls2.png" group-title="[PL] OGÓLNE", [PL] PULS 2 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689673
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/puls.png" group-title="[PL] OGÓLNE", [PL] PULS HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689677
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/TNT-HD.png" group-title="[PL] OGÓLNE", [PL] TNT HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689679
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/bbcbrithd.png" group-title="[PL] OGÓLNE", [PL] BBC BRIT HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689702
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/bbclifestyle.png" group-title="[PL] OGÓLNE", [PL] BBC LIFESTYLE HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689717
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/cartoonnetworkhd.png" group-title="[PL] OGÓLNE", [PL] CARTOON NETWORK HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689720
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/domoplushd.png" group-title="[PL] OGÓLNE", [PL] DOMO+ HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689728
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/dtxhd.png" group-title="[PL] OGÓLNE", [PL] DTX HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689729
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/kuchniaplushd.png" group-title="[PL] OGÓLNE", [PL] KUCHNIA+ HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689737
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/nowatv.png" group-title="[PL] OGÓLNE", [PL] NOWA TV HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689745
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/polsatcafehd.png" group-title="[PL] OGÓLNE", [PL] POLSAT CAFE HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689748
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/comedycentralextra.png" group-title="[PL] OGÓLNE", [PL] POLSAT COMEDY CENTRAL EXTRA HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689749
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/polsatdoku.png" group-title="[PL] OGÓLNE", [PL] POLSAT DOKU HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689750
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/polsatgames.png" group-title="[PL] OGÓLNE", [PL] POLSAT GAMES HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689751
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/polsatplayhd.png" group-title="[PL] OGÓLNE", [PL] POLSAT PLAY HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689753
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/studiomedtv.png" group-title="[PL] OGÓLNE", [PL] STUDIOMED TV HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689759
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/ttv.png" group-title="[PL] OGÓLNE", [PL] TTV HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689763
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/superpolsat.png" group-title="[PL] OGÓLNE", [PL] SUPER POLSAT HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689766
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/HGTV-HD.png" group-title="[PL] OGÓLNE", [PL] HGTV HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689767
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/polonia1.png" group-title="[PL] OGÓLNE", [PL] TVP POLONIA 1
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689771
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/tvp3.png" group-title="[PL] OGÓLNE", [PL] TVP 3
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689772
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/tvpabc.png" group-title="[PL] OGÓLNE", [PL] TVP ABC
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689773
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/tvprozrywka.png" group-title="[PL] OGÓLNE", [PL] TVP ROZRYWKA
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689775
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/tele5hd.png" group-title="[PL] OGÓLNE", [PL] TELE 5
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689782
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/metrotv.png" group-title="[PL] OGÓLNE", [PL] METRO
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689800
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/wp.png" group-title="[PL] OGÓLNE", [PL] WP
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689820
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/zoomtvhd.jpg" group-title="[PL] OGÓLNE", [PL] ZOOM TV
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689822
-
-#EXTINF:-1 tvg-logo="https://img.freeflagicons.com/thumb/round_icon/poland/poland_640.png" group-title="[PL] MUZYKA | DZIECI", ##### [PL] MUZYKA & DZIECI #####
-http://dm.lion-ott.com:80/jocelyne/jocelyne/763259
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/boomeranghd.png" group-title="[PL] MUZYKA | DZIECI", [PL] BOOMERANG HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689709
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/bbcearthhd.png" group-title="[PL] MUZYKA | DZIECI", [PL] BBC EARTH HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689716
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/cbsreality.png" group-title="[PL] MUZYKA | DZIECI", [PL] CBS REALITY HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689722
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/disneychannelhd.png" group-title="[PL] MUZYKA | DZIECI", [PL] DISNEY CHANNEL HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689727
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/MINIMINI-.jpeg" group-title="[PL] MUZYKA | DZIECI", [PL] MINIMINI HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689738
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/nicktoons.png" group-title="[PL] MUZYKA | DZIECI", [PL] NICKTOONS HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689740
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/TEEN-NICK.jpg" group-title="[PL] MUZYKA | DZIECI", [PL] TEENNICK HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689741
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/mtvlivehd.png" group-title="[PL] MUZYKA | DZIECI", [PL] MTV LIVE HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689743
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/mtvpolska.png" group-title="[PL] MUZYKA | DZIECI", [PL] MTV POLSKA HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689744
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/polsatmusichd.png" group-title="[PL] MUZYKA | DZIECI", [PL] POLSAT MUSIC HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689752
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/sundancehd.png" group-title="[PL] MUZYKA | DZIECI", [PL] SUNDANCE TV HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689760
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/teletoonplushd.png" group-title="[PL] MUZYKA | DZIECI", [PL] TELETOON+ HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689762
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/polotv.png" group-title="[PL] MUZYKA | DZIECI", [PL] POLO TV HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689769
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/bbccbeebies.png" group-title="[PL] MUZYKA | DZIECI", [PL] BBC CBEEBIES
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689786
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/babytv.png" group-title="[PL] MUZYKA | DZIECI", [PL] BABY TV
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689787
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/discopolomusic.png" group-title="[PL] MUZYKA | DZIECI", [PL] DISCO POLO MUSIC
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689789
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/4fundance.png" group-title="[PL] MUZYKA | DZIECI", [PL] 4FUN DANCE
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689790
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/4fungold.png" group-title="[PL] MUZYKA | DZIECI", [PL] 4FUN GOLD HITS
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689791
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/4funtv.png" group-title="[PL] MUZYKA | DZIECI", [PL] 4FUN.TV
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689792
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/disneyjuniorhd.png" group-title="[PL] MUZYKA | DZIECI", [PL] DISNEY JUNIOR
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689793
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/disneyxdhd.png" group-title="[PL] MUZYKA | DZIECI", [PL] DISNEY XD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689794
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/eskatv.png" group-title="[PL] MUZYKA | DZIECI", [PL] ESKA ROCK TV
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689795
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/eskatv.png" group-title="[PL] MUZYKA | DZIECI", [PL] ESKA TV
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689796
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/eskatvextra.png" group-title="[PL] MUZYKA | DZIECI", [PL] ESKA TV EXTRA
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689797
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/nickjrpolska.png" group-title="[PL] MUZYKA | DZIECI", [PL] NICK JR POLSKA
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689801
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/NICKELODEON-HD.png" group-title="[PL] MUZYKA | DZIECI", [PL] NICKELODEON
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689802
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/mtvrocks.png" group-title="[PL] MUZYKA | DZIECI", [PL] MTV ROCKS
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689804
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/nutatv.png" group-title="[PL] MUZYKA | DZIECI", [PL] NUTA TV
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689805
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/polsatjimjam.png" group-title="[PL] MUZYKA | DZIECI", [PL] POLSAT JIM JAM
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689806
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/powertv.png" group-title="[PL] MUZYKA | DZIECI", [PL] POWER TV
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689807
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/starstv.png" group-title="[PL] MUZYKA | DZIECI", [PL] STARS.TV
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689808
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/MTV-HD.png" group-title="[PL] MUZYKA | DZIECI", [PL] MTV 00S
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689812
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/musicbox.png" group-title="[PL] MUZYKA | DZIECI", [PL] MUSIC BOX POLSKA
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689813
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/voxmusictv.png" group-title="[PL] MUZYKA | DZIECI", [PL] VOX MUSIC TV
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689814
-
-#EXTINF:-1 tvg-logo="https://img.freeflagicons.com/thumb/round_icon/poland/poland_640.png" group-title="[PL] SPORTOWE", ##### [PL] SPORTOWE #####
-http://dm.lion-ott.com:80/jocelyne/jocelyne/763258
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/tvpsporthd.png" group-title="[PL] SPORTOWE", [PL] TVP SPORT HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689650
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/polsatsportnews.png" group-title="[PL] SPORTOWE", [PL] POLSAT SPORT NEWS HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689684
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/polsatsportextrahd.png" group-title="[PL] SPORTOWE", [PL] POLSAT SPORT EXTRA HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689681
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/polsatsporthd.png" group-title="[PL] SPORTOWE", [PL] POLSAT SPORT HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689682
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/polsatsportfighthd.png" group-title="[PL] SPORTOWE", [PL] POLSAT SPORT FIGHT HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689683
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/polsatsportpremium1.png" group-title="[PL] SPORTOWE", [PL] POLSAT SPORT PREMIUM 1 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689685
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/polsatsportpremium2.png" group-title="[PL] SPORTOWE", [PL] POLSAT SPORT PREMIUM 2 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689686
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/polsatsportpremiumppv3.png" group-title="[PL] SPORTOWE", [PL] POLSAT SPORT PREMIUM 3 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689687
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/polsatsportpremiumppv4.png" group-title="[PL] SPORTOWE", [PL] POLSAT SPORT PREMIUM 4 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689688
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/polsatsportpremiumppv5.png" group-title="[PL] SPORTOWE", [PL] POLSAT SPORT PREMIUM 5 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689689
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/polsatsportpremiumppv6.png" group-title="[PL] SPORTOWE", [PL] POLSAT SPORT PREMIUM 6 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689690
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/canalplussport2hd.png" group-title="[PL] SPORTOWE", [PL] CANAL+ SPORT 2 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689692
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/canalplussporthd.png" group-title="[PL] SPORTOWE", [PL] CANAL+ SPORT HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689691
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/canalplussport3hd.png" group-title="[PL] SPORTOWE", [PL] CANAL+ SPORT 3 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689693
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/canalplussport4hd.png" group-title="[PL] SPORTOWE", [PL] CANAL+ SPORT 4 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689694
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/elevensports1hd.png" group-title="[PL] SPORTOWE", [PL] ELEVEN SPORTS 1 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689695
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/elevensports2hd.png" group-title="[PL] SPORTOWE", [PL] ELEVEN SPORTS 2 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689696
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/elevensports3hd.png" group-title="[PL] SPORTOWE", [PL] ELEVEN SPORTS 3 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689697
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/elevensports4hd.png" group-title="[PL] SPORTOWE", [PL] ELEVEN SPORTS 4 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689698
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/eurosport1hd.png" group-title="[PL] SPORTOWE", [PL] EUROSPORT 1 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689699
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/eurosport2hd.png" group-title="[PL] SPORTOWE", [PL] EUROSPORT 2 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689700
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/extremesportshd.png" group-title="[PL] SPORTOWE", [PL] EXTREME SPORTS HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689704
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/sportklubhd.png" group-title="[PL] SPORTOWE", [PL] SPORTKLUB HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689705
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/fightboxhd.png" group-title="[PL] SPORTOWE", [PL] FIGHTBOX HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689706
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/fightklub.png" group-title="[PL] SPORTOWE", [PL] FIGHTKLUB HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689732
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/GOLF-CHANNEL-NP.png" group-title="[PL] SPORTOWE", [PL] GOLF CHANNEL HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689733
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/motowizjatv.png" group-title="[PL] SPORTOWE", [PL] MOTOWIZJA HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689739
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/nsportplushd.png" group-title="[PL] SPORTOWE", [PL] NSPORT+ HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689746
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/stopklatkatv.png" group-title="[PL] SPORTOWE", [PL] STOPKLATKA TV
-http://dm.lion-ott.com:80/jocelyne/jocelyne/689783
-
-#EXTINF:-1 tvg-logo="https://img.freeflagicons.com/thumb/round_icon/poland/poland_640.png" group-title="[PL] NA HD", ##### [PL] POLAND NA #####
-http://dm.lion-ott.com:80/jocelyne/jocelyne/691008
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/tvphd.png" group-title="[PL] NA HD", [PL] TVP HD NA
-http://dm.lion-ott.com:80/jocelyne/jocelyne/691009
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/tvp1hd.png" group-title="[PL] NA HD", [PL] TVP 1 HD NA
-http://dm.lion-ott.com:80/jocelyne/jocelyne/691010
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/tvp2hd.png" group-title="[PL] NA HD", [PL] TVP 2 HD NA
-http://dm.lion-ott.com:80/jocelyne/jocelyne/691011
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/tvpkultura.png" group-title="[PL] NA HD", [PL] TVP KULTURA HD NA
-http://dm.lion-ott.com:80/jocelyne/jocelyne/691012
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/tvphistoria.png" group-title="[PL] NA HD", [PL] TVP HISTORIA NA
-http://dm.lion-ott.com:80/jocelyne/jocelyne/691013
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/tvpabc.png" group-title="[PL] NA HD", [PL] TVP ABC NA
-http://dm.lion-ott.com:80/jocelyne/jocelyne/691014
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/tvprozrywka.png" group-title="[PL] NA HD", [PL] TVP ROZRYWKA NA
-http://dm.lion-ott.com:80/jocelyne/jocelyne/691015
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/tvpseriale.png" group-title="[PL] NA HD", [PL] TVP SERIALE NA
-http://dm.lion-ott.com:80/jocelyne/jocelyne/691016
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/tvnhd.png" group-title="[PL] NA HD", [PL] TVN HD NA
-http://dm.lion-ott.com:80/jocelyne/jocelyne/691018
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/tvn24hd.png" group-title="[PL] NA HD", [PL] TVN24 HD NA
-http://dm.lion-ott.com:80/jocelyne/jocelyne/691038
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/tvnstylehd.png" group-title="[PL] NA HD", [PL] TVN STYLE HD NA
-http://dm.lion-ott.com:80/jocelyne/jocelyne/691020
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/tvnturbohd.png" group-title="[PL] NA HD", [PL] TVN TURBO HD NA
-http://dm.lion-ott.com:80/jocelyne/jocelyne/691021
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/polsatplayhd.png" group-title="[PL] NA HD", [PL] POLSAT PLAY HD NA
-http://dm.lion-ott.com:80/jocelyne/jocelyne/691022
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/polsatcafehd.png" group-title="[PL] NA HD", [PL] POLSAT CAFE HD NA
-http://dm.lion-ott.com:80/jocelyne/jocelyne/691023
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/kuchniaplushd.png" group-title="[PL] NA HD", [PL] KUCHNIA+ HD NA
-http://dm.lion-ott.com:80/jocelyne/jocelyne/691024
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/domoplushd.png" group-title="[PL] NA HD", [PL] DOMO+ HD NA
-http://dm.lion-ott.com:80/jocelyne/jocelyne/691025
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/kinopolska.png" group-title="[PL] NA HD", [PL] KINO POLSKA HD NA
-http://dm.lion-ott.com:80/jocelyne/jocelyne/691026
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/polsatsportpremium1.png" group-title="[PL] NA HD", [PL] POLSAT SPORT PREMIUM 1 HD NA
-http://dm.lion-ott.com:80/jocelyne/jocelyne/691027
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/polsatsportpremium2.png" group-title="[PL] NA HD", [PL] POLSAT SPORT PREMIUM 2 HD NA
-http://dm.lion-ott.com:80/jocelyne/jocelyne/691028
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/canalplusfilmhd.png" group-title="[PL] NA HD", [PL] CANAL+ FILM HD NA
-http://dm.lion-ott.com:80/jocelyne/jocelyne/691029
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/canalplus1hd.png" group-title="[PL] NA HD", [PL] CANAL+ 1 HD NA
-http://dm.lion-ott.com:80/jocelyne/jocelyne/691030
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/canalplusfilmhd.png" group-title="[PL] NA HD", [PL] CANAL+ FAMILY HD NA
-http://dm.lion-ott.com:80/jocelyne/jocelyne/691031
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/canalplusnowhd.png" group-title="[PL] NA HD", [PL] CANAL+ NOW HD NA
-http://dm.lion-ott.com:80/jocelyne/jocelyne/691032
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/canalpluspr.png" group-title="[PL] NA HD", [PL] CANAL+ PREMIUM HD NA
-http://dm.lion-ott.com:80/jocelyne/jocelyne/691033
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/canalplusserialehd.png" group-title="[PL] NA HD", [PL] CANAL+ SERIALE HD NA
-http://dm.lion-ott.com:80/jocelyne/jocelyne/691034
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/hbohd.png" group-title="[PL] NA HD", [PL] HBO HD NA
-http://dm.lion-ott.com:80/jocelyne/jocelyne/691035
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/hbo2hd.png" group-title="[PL] NA HD", [PL] HBO 2 HD NA
-http://dm.lion-ott.com:80/jocelyne/jocelyne/691036
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/hbo3hd.png" group-title="[PL] NA HD", [PL] HBO 3 HD NA
-http://dm.lion-ott.com:80/jocelyne/jocelyne/691037
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/tv6_HD.png" group-title="[PL] NA HD", [PL] TV6 HD NA
-http://dm.lion-ott.com:80/jocelyne/jocelyne/691039
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/tv4hd.png" group-title="[PL] NA HD", [PL] TV4 HD NA
-http://dm.lion-ott.com:80/jocelyne/jocelyne/691040
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/polsathd.png" group-title="[PL] NA HD", [PL] POLSAT HD NA
-http://dm.lion-ott.com:80/jocelyne/jocelyne/691041
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/polsat2hd.png" group-title="[PL] NA HD", [PL] POLSAT2 HD NA
-http://dm.lion-ott.com:80/jocelyne/jocelyne/691042
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/polsatseriale.png" group-title="[PL] NA HD", [PL] POLSAT SERIALE HD NA
-http://dm.lion-ott.com:80/jocelyne/jocelyne/691043
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="[PL] VIAPLAY SPORT", [PL] PREMIER LEAGUE TOP EVENT FHD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/842137
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="[PL] VIAPLAY SPORT", [PL] PREMIER LEAGUE TOP EVENT HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/842136
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="[PL] VIAPLAY SPORT", [PL] XTRA 1  HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/842135
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="[PL] VIAPLAY SPORT", [PL] XTRA 2 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/842134
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="[PL] VIAPLAY SPORT", [PL] XTRA 3 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/842133
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="[PL] VIAPLAY SPORT", [PL] XTRA 4 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/842132
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="[PL] VIAPLAY SPORT", [PL] XTRA 5 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/842131
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="[PL] VIAPLAY SPORT", [PL] XTRA 6 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/842130
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="[PL] VIAPLAY SPORT", [PL] XTRA 7 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/842129
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="[PL] VIAPLAY SPORT", [PL] XTRA 8 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/842128
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="[PL] VIAPLAY SPORT", [PL] XTRA 9 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/842127
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="[PL] VIAPLAY SPORT", [PL] XTRA 10 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/842126
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="[PL] VIAPLAY SPORT", [PL] XTRA 11 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/842125
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="[PL] VIAPLAY SPORT", [PL] XTRA 12 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/842124
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="[PL] VIAPLAY SPORT", [PL] XTRA 13 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/842123
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="[PL] VIAPLAY SPORT", [PL] XTRA 14 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/842122
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="[PL] VIAPLAY SPORT", [PL] XTRA 15  HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/842121
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="[PL] VIAPLAY SPORT", [PL] XTRA 16 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/842120
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="[PL] VIAPLAY SPORT", [PL] XTRA 17 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/842119
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="[PL] VIAPLAY SPORT", [PL] XTRA 18 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/842118
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="[PL] VIAPLAY SPORT", [PL] XTRA 19 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/842117
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="[PL] VIAPLAY SPORT", [PL] XTRA 20 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/842116
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="[PL] VIAPLAY SPORT", [PL] XTRA 21 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/842115
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="[PL] VIAPLAY SPORT", [PL] XTRA 22  HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/842114
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="[PL] VIAPLAY SPORT", [PL] XTRA 23 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/842113
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="[PL] VIAPLAY SPORT", [PL] XTRA 25 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/842112
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="[PL] VIAPLAY SPORT", [PL] XTRA 26 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/842111
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="[PL] VIAPLAY SPORT", [PL] XTRA 40 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/842110
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="[PL] VIAPLAY SPORT", [PL] XTRA 44 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/842109
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="[PL] VIAPLAY SPORT", [PL] XTRA 48 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/842108
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="[PL] VIAPLAY SPORT", [PL] XTRA 49 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/842107
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="[PL] VIAPLAY SPORT", [PL] XTRA 50 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/842106
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="[PL] VIAPLAY SPORT", [PL] XTRA 63 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/842105
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="[PL] VIAPLAY SPORT", [PL] XTRA 64 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/842104
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="[PL] VIAPLAY SPORT", [PL] XTRA 65 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/842103
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="[PL] VIAPLAY SPORT", [PL] XTRA 66 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/842102
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="[PL] VIAPLAY SPORT", [PL] XTRA 67 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/842101
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="[PL] VIAPLAY SPORT", [PL] XTRA 68 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/842100
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="[PL] VIAPLAY SPORT", [PL] XTRA 69 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/842099
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="[PL] VIAPLAY SPORT", [PL] XTRA 70 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/842098
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="[PL] VIAPLAY SPORT", [PL] XTRA 71 FHD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/842097
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="[PL] VIAPLAY SPORT", [PL] XTRA 71 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/842096
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="[PL] VIAPLAY SPORT", [PL] XTRA 72 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/842095
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="[PL] VIAPLAY SPORT", [PL] XTRA 73 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/842094
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="[PL] VIAPLAY SPORT", [PL] XTRA 74 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/842093
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="[PL] VIAPLAY SPORT", [PL] XTRA 75 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/842092
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="[PL] VIAPLAY SPORT", [PL] XTRA 76 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/842091
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="[PL] VIAPLAY SPORT", [PL] XTRA 77 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/842090
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="[PL] VIAPLAY SPORT", [PL] XTRA 78 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/842089
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="[PL] VIAPLAY SPORT", [PL] XTRA 79 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/842088
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="[PL] VIAPLAY SPORT", [PL] XTRA 80 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/842087
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="[PL] VIAPLAY SPORT", [PL] XTRA 81 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/842086
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="[PL] VIAPLAY SPORT", [PL] XTRA 82 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/842085
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="[PL] VIAPLAY SPORT", [PL] XTRA 83 FHD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/842084
-
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/42.png?1674475300" group-title="[PL] VIAPLAY SPORT", [PL] XTRA 83 HD
-http://dm.lion-ott.com:80/jocelyne/jocelyne/842083
-
+#EXTINF:-1 tvg-id="" tvg-name="##########   Poland   ##########" tvg-logo="" group-title="Poland",##########   Poland   ##########
+https://static.videezy.com/system/protected/files/000/040/581/Poland_Flag_Loop.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CTV FHD PL" tvg-logo="" group-title="Poland",CTV FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/124675
+#EXTINF:-1 tvg-id="" tvg-name="Clout MMA PL" tvg-logo="" group-title="Poland",Clout MMA PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/117623
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 5 PL" tvg-logo="" group-title="Poland",Canal+ Sport 5 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/117570
+#EXTINF:-1 tvg-id="TVP HD PL" tvg-name="TVP FHD PL" tvg-logo="http://tugapt.com/picons/tvp-hd-pl.png" group-title="Poland",TVP FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/6426
+#EXTINF:-1 tvg-id="TVP HD PL" tvg-name="TVP FHD (backup) PL" tvg-logo="http://tugapt.com/picons/tvp-hd-pl.png" group-title="Poland",TVP FHD (backup) PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/107245
+#EXTINF:-1 tvg-id="TVP 1 HD PL" tvg-name="TVP 1 PL" tvg-logo="http://tugapt.com/picons/tvp-1-pl.png" group-title="Poland",TVP 1 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/107246
+#EXTINF:-1 tvg-id="TVP 1 HD PL" tvg-name="TVP 1 FHD PL" tvg-logo="http://tugapt.com/picons/tvp1hd.png" group-title="Poland",TVP 1 FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/868
+#EXTINF:-1 tvg-id="TVP 2 HD PL" tvg-name="TVP 2 PL" tvg-logo="http://tugapt.com/picons/tvp-2-pl.png" group-title="Poland",TVP 2 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/107247
+#EXTINF:-1 tvg-id="TVP 2 HD PL" tvg-name="TVP 2 FHD PL" tvg-logo="http://tugapt.com/picons/tvp2hd.png" group-title="Poland",TVP 2 FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/867
+#EXTINF:-1 tvg-id="" tvg-name="TVP Wilno PL" tvg-logo="" group-title="Poland",TVP Wilno PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/124680
+#EXTINF:-1 tvg-id="" tvg-name="TVP Wilno FHD PL" tvg-logo="" group-title="Poland",TVP Wilno FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/124679
+#EXTINF:-1 tvg-id="" tvg-name="TVC Super PL" tvg-logo="" group-title="Poland",TVC Super PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/124678
+#EXTINF:-1 tvg-id="" tvg-name="TVC PL" tvg-logo="" group-title="Poland",TVC PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/124677
+#EXTINF:-1 tvg-id="" tvg-name="TVC FHD PL" tvg-logo="" group-title="Poland",TVC FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/124676
+#EXTINF:-1 tvg-id="TVN PL" tvg-name="TVN PL" tvg-logo="http://tugapt.com/picons/tvn_pl.png" group-title="Poland",TVN PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/107313
+#EXTINF:-1 tvg-id="TVN PL" tvg-name="TVN FHD PL" tvg-logo="http://tugapt.com/picons/tvn.png" group-title="Poland",TVN FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/839
+#EXTINF:-1 tvg-id="TVN 7 PL" tvg-name="TVN 7 FHD PL" tvg-logo="http://tugapt.com/picons/tvn-7-pl.png" group-title="Poland",TVN 7 FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/890
+#EXTINF:-1 tvg-id="TVN 7 PL" tvg-name="TVN 7 FHD (backup) PL" tvg-logo="http://tugapt.com/picons/tvn-7-pl.png" group-title="Poland",TVN 7 FHD (backup) PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/107256
+#EXTINF:-1 tvg-id="" tvg-name="TVN Kryminalnie PL" tvg-logo="" group-title="Poland",TVN Kryminalnie PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/117272
+#EXTINF:-1 tvg-id="" tvg-name="TVN Talk Show PL" tvg-logo="" group-title="Poland",TVN Talk Show PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/117271
+#EXTINF:-1 tvg-id="" tvg-name="TVN Rajska Milosc PL" tvg-logo="" group-title="Poland",TVN Rajska Milosc PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/117270
+#EXTINF:-1 tvg-id="" tvg-name="TVN Kultowe Seriale PL" tvg-logo="" group-title="Poland",TVN Kultowe Seriale PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/117269
+#EXTINF:-1 tvg-id="" tvg-name="TVN Prawo i Zycie PL" tvg-logo="" group-title="Poland",TVN Prawo i Zycie PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/117296
+#EXTINF:-1 tvg-id="" tvg-name="TVN Usterka PL" tvg-logo="" group-title="Poland",TVN Usterka PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/117295
+#EXTINF:-1 tvg-id="" tvg-name="TVN Moto PL" tvg-logo="" group-title="Poland",TVN Moto PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/117294
+#EXTINF:-1 tvg-id="" tvg-name="TVN W Domu PL" tvg-logo="" group-title="Poland",TVN W Domu PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/117293
+#EXTINF:-1 tvg-id="" tvg-name="TVN Szkoła Zycia PL" tvg-logo="" group-title="Poland",TVN Szkoła Zycia PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/117292
+#EXTINF:-1 tvg-id="" tvg-name="TVN Seriale o Kobietach PL" tvg-logo="" group-title="Poland",TVN Seriale o Kobietach PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/117291
+#EXTINF:-1 tvg-id="" tvg-name="TVN Szpitalne Historie PL" tvg-logo="" group-title="Poland",TVN Szpitalne Historie PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/117290
+#EXTINF:-1 tvg-id="" tvg-name="TVN Telenowele PL" tvg-logo="" group-title="Poland",TVN Telenowele PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/117289
+#EXTINF:-1 tvg-id="" tvg-name="TVN Zycie Jak w Bajce PL" tvg-logo="" group-title="Poland",TVN Zycie Jak w Bajce PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/117288
+#EXTINF:-1 tvg-id="" tvg-name="TVN Momenty Prawdy PL" tvg-logo="" group-title="Poland",TVN Momenty Prawdy PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/117287
+#EXTINF:-1 tvg-id="" tvg-name="TVN Rewolucje w Kuchni PL" tvg-logo="" group-title="Poland",TVN Rewolucje w Kuchni PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/117268
+#EXTINF:-1 tvg-id="" tvg-name="Polsat HD PL" tvg-logo="" group-title="Poland",Polsat HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/122193
+#EXTINF:-1 tvg-id="POLSAT PL" tvg-name="Polsat 1 FHD PL" tvg-logo="http://tugapt.com/picons/polsat-1-pl.png" group-title="Poland",Polsat 1 FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/10448
+#EXTINF:-1 tvg-id="POLSAT 1 PL" tvg-name="Polsat 1 HD PL" tvg-logo="http://tugapt.com/picons/polsat-1-pl.png" group-title="Poland",Polsat 1 HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/107243
+#EXTINF:-1 tvg-id="POLSAT 2 PL" tvg-name="Polsat 2 FHD PL" tvg-logo="http://tugapt.com/picons/polsat-2-pl.png" group-title="Poland",Polsat 2 FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/6430
+#EXTINF:-1 tvg-id="POLSAT 2 PL" tvg-name="Polsat 2 HD PL" tvg-logo="http://tugapt.com/picons/polsat-2-pl.png" group-title="Poland",Polsat 2 HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/107244
+#EXTINF:-1 tvg-id="POLSAT Film PL" tvg-name="Polsat Film FHD PL" tvg-logo="http://tugapt.com/picons/polsat-film-pl.png" group-title="Poland",Polsat Film FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/870
+#EXTINF:-1 tvg-id="Comedy Central PL" tvg-name="Polsat Comedy Central FHD PL" tvg-logo="http://tugapt.com/picons/comedy-central-deutschland-us-de.png" group-title="Poland",Polsat Comedy Central FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/86597
+#EXTINF:-1 tvg-id="Comedy Central PL" tvg-name="Polsat Comedy Central Extra FHD PL" tvg-logo="http://tugapt.com/picons/polsatcomedycentralextra.png" group-title="Poland",Polsat Comedy Central Extra FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/86607
+#EXTINF:-1 tvg-id="POLSAT Romans PL" tvg-name="Polsat Romans PL" tvg-logo="http://tugapt.com/picons/polsatromanspl.png" group-title="Poland",Polsat Romans PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/10446
+#EXTINF:-1 tvg-id="POLSAT Seriale PL" tvg-name="Polsat Seriale FHD PL" tvg-logo="http://tugapt.com/picons/polsat-seriale-pl.png" group-title="Poland",Polsat Seriale FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/86608
+#EXTINF:-1 tvg-id="TTV PL" tvg-name="TTV FHD PL" tvg-logo="http://tugapt.com/picons/ttvhdpl.png" group-title="Poland",TTV FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/10433
+#EXTINF:-1 tvg-id="TTV PL" tvg-name="TTV FHD (backup) PL" tvg-logo="http://tugapt.com/picons/ttvhdpl.png" group-title="Poland",TTV FHD (backup) PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/107250
+#EXTINF:-1 tvg-id="" tvg-name="NetFlix [2022] FHD PL" tvg-logo="http://tugapt.com/picons/tvp-dokument-pl.png" group-title="Poland",NetFlix [2022] FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/97991
+#EXTINF:-1 tvg-id="TVP Historia PL" tvg-name="TVP Historia PL" tvg-logo="http://tugapt.com/picons/tvp-historia-pl.png" group-title="Poland",TVP Historia PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/4536
+#EXTINF:-1 tvg-id="TVP Rozrywka PL" tvg-name="TVP Rozrywka PL" tvg-logo="http://tugapt.com/picons/tvp-rozrywka-pl.png" group-title="Poland",TVP Rozrywka PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/883
+#EXTINF:-1 tvg-id="TVP Seriale PL" tvg-name="TVP Seriale PL" tvg-logo="http://tugapt.com/picons/tvp-seriale-pl.png" group-title="Poland",TVP Seriale PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/882
+#EXTINF:-1 tvg-id="TVP Kultura PL" tvg-name="TVP Kultura 1 FHD PL" tvg-logo="http://tugapt.com/picons/tvp-kultura-pl.png" group-title="Poland",TVP Kultura 1 FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/884
+#EXTINF:-1 tvg-id="TV Puls PL" tvg-name="TV Puls FHD PL" tvg-logo="http://tugapt.com/picons/tvpulshdpl.png" group-title="Poland",TV Puls FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/10431
+#EXTINF:-1 tvg-id="TV Puls PL" tvg-name="TV Puls HD PL" tvg-logo="http://tugapt.com/picons/tvpulshdpl.png" group-title="Poland",TV Puls HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/896
+#EXTINF:-1 tvg-id="PULS 2 PL" tvg-name="Puls 2 PL" tvg-logo="http://tugapt.com/picons/puls2.png" group-title="Poland",Puls 2 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/902
+#EXTINF:-1 tvg-id="TV 6 PL" tvg-name="TV6 FHD PL" tvg-logo="http://tugapt.com/picons/tv-6-pl.png" group-title="Poland",TV6 FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/6437
+#EXTINF:-1 tvg-id="TV 6 PL" tvg-name="TV 6 HD PL" tvg-logo="http://tugapt.com/picons/tv-6-pl.png" group-title="Poland",TV 6 HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/893
+#EXTINF:-1 tvg-id="TVN Turbo PL" tvg-name="TVN Turbo HD PL" tvg-logo="http://tugapt.com/picons/tvn-turbo-pl.png" group-title="Poland",TVN Turbo HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/107255
+#EXTINF:-1 tvg-id="TVN Turbo PL" tvg-name="TVN Turbo FHD PL" tvg-logo="http://tugapt.com/picons/tvnturbohd.png" group-title="Poland",TVN Turbo FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/888
+#EXTINF:-1 tvg-id="TVN 24 PL" tvg-name="TVN 24 FHD PL" tvg-logo="http://tugapt.com/picons/tvn24hd.png" group-title="Poland",TVN 24 FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/891
+#EXTINF:-1 tvg-id="TVN 24 PL" tvg-name="TVN 24 FHD (backup) PL" tvg-logo="http://tugapt.com/picons/tvn24hd.png" group-title="Poland",TVN 24 FHD (backup) PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/107257
+#EXTINF:-1 tvg-id="TVN 24 Biznes i Swiat PL" tvg-name="TVN 24 BiS FHD PL" tvg-logo="http://tugapt.com/picons/tvn24bis.png" group-title="Poland",TVN 24 BiS FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/887
+#EXTINF:-1 tvg-id="POLSAT News PL" tvg-name="Polsat News 1 FHD PL" tvg-logo="http://tugapt.com/picons/polsat-news-pl.png" group-title="Poland",Polsat News 1 FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/907
+#EXTINF:-1 tvg-id="POLSAT News PL" tvg-name="Polsat News 1 FHD (backup) PL" tvg-logo="http://tugapt.com/picons/polsat-news-pl.png" group-title="Poland",Polsat News 1 FHD (backup) PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/107252
+#EXTINF:-1 tvg-id="POLSAT News 2 PL" tvg-name="Polsat News 2 PL" tvg-logo="http://tugapt.com/picons/polsat-news-2-pl.png" group-title="Poland",Polsat News 2 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/4541
+#EXTINF:-1 tvg-id="TVP Info PL" tvg-name="TVP Info PL" tvg-logo="http://tugapt.com/picons/tvp-info-pl.png" group-title="Poland",TVP Info PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/107248
+#EXTINF:-1 tvg-id="TVP Info PL" tvg-name="TVP Info FHD PL" tvg-logo="http://tugapt.com/picons/tvpinfohdpl.png" group-title="Poland",TVP Info FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/10424
+#EXTINF:-1 tvg-id="TVN Fabula PL" tvg-name="TVN Fabula FHD PL" tvg-logo="http://tugapt.com/picons/tvnfabula..png" group-title="Poland",TVN Fabula FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/840
+#EXTINF:-1 tvg-id="KuchniaPlus PL" tvg-name="Kuchnia+ FHD PL" tvg-logo="http://tugapt.com/picons/kuchniaplushdpl.png" group-title="Poland",Kuchnia+ FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/10456
+#EXTINF:-1 tvg-id="KuchniaPlus PL" tvg-name="Canal+ Kuchnia+ HD PL" tvg-logo="http://tugapt.com/picons/kuchniaplushdpl.png" group-title="Poland",Canal+ Kuchnia+ HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/917
+#EXTINF:-1 tvg-id="Food Network PL" tvg-name="Food Network FHD PL" tvg-logo="http://tugapt.com/picons/food-network-us.png" group-title="Poland",Food Network FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/19522
+#EXTINF:-1 tvg-id="CANALPlus 4K Ultra HD PL" tvg-name="Canal+ 360 HD PL" tvg-logo="http://tugapt.com/picons/canal-plus-4k-ultra-hd-pl.png" group-title="Poland",Canal+ 360 HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/107310
+#EXTINF:-1 tvg-id="CANALPlus PL" tvg-name="Canal+ PL" tvg-logo="http://tugapt.com/picons/canalplus.png" group-title="Poland",Canal+ PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/8429
+#EXTINF:-1 tvg-id="CANALPlus PREMIUM PL" tvg-name="Canal+ Premium FHD PL" tvg-logo="http://tugapt.com/picons/canal-plus-premium.png" group-title="Poland",Canal+ Premium FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/86596
+#EXTINF:-1 tvg-id="CANALPlus 1 PL" tvg-name="Canal+ 1 FHD PL" tvg-logo="http://tugapt.com/picons/canalplus1.png" group-title="Poland",Canal+ 1 FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/949
+#EXTINF:-1 tvg-id="CANALPlus Film PL" tvg-name="Canal+ Film FHD PL" tvg-logo="http://tugapt.com/picons/canalplusfilm.png" group-title="Poland",Canal+ Film FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/952
+#EXTINF:-1 tvg-id="CANALPlus Seriale PL" tvg-name="Canal+ Seriale FHD PL" tvg-logo="http://tugapt.com/picons/canalplusseriale.png" group-title="Poland",Canal+ Seriale FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/951
+#EXTINF:-1 tvg-id="CANALPlus Seriale PL" tvg-name="Canal+ Seriale HD PL" tvg-logo="http://tugapt.com/picons/canalplus_pl_seriale.png" group-title="Poland",Canal+ Seriale HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/12322
+#EXTINF:-1 tvg-id="CANALPlus Family PL" tvg-name="CANAL+ FAMILY FHD PL" tvg-logo="http://tugapt.com/picons/canalplusfamily.png" group-title="Poland",CANAL+ FAMILY FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/953
+#EXTINF:-1 tvg-id="CANALPlus Family PL" tvg-name="CANAL+ FAMILY HD PL" tvg-logo="http://tugapt.com/picons/canal-plus-family-polska-pl.png" group-title="Poland",CANAL+ FAMILY HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/12321
+#EXTINF:-1 tvg-id="CANALPlus DOKUMENT PL" tvg-name="Canal+ Dokument FHD PL" tvg-logo="http://tugapt.com/picons/canal-plus-dokument-pl.png" group-title="Poland",Canal+ Dokument FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/939
+#EXTINF:-1 tvg-id="CANALPlus DOKUMENT PL" tvg-name="Canal+ Dokument FHD (ENG Commentary) PL" tvg-logo="http://tugapt.com/picons/canal-plus-dokument-pl.png" group-title="Poland",Canal+ Dokument FHD (ENG Commentary) PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/90948
+#EXTINF:-1 tvg-id="CANALPlus 4K Ultra HD PL" tvg-name="Canal+4K Ultra HD Online PL" tvg-logo="http://tugapt.com/picons/canal-plus-4k-ultra-hd-pl.png" group-title="Poland",Canal+4K Ultra HD Online PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/107872
+#EXTINF:-1 tvg-id="HBO HD PL" tvg-name="HBO 1 FHD PL" tvg-logo="http://tugapt.com/picons/hbo_pl.png" group-title="Poland",HBO 1 FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/11099
+#EXTINF:-1 tvg-id="HBO HD PL" tvg-name="HBO 1 HD PL" tvg-logo="http://tugapt.com/picons/hbo1.png" group-title="Poland",HBO 1 HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/856
+#EXTINF:-1 tvg-id="HBO2 HD PL" tvg-name="HBO 2 FHD PL" tvg-logo="http://tugapt.com/picons/hbo2hd.png" group-title="Poland",HBO 2 FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/922
+#EXTINF:-1 tvg-id="HBO2 HD PL" tvg-name="HBO 2 HD PL" tvg-logo="http://tugapt.com/picons/hbo2_pl.png" group-title="Poland",HBO 2 HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/6889
+#EXTINF:-1 tvg-id="HBO3 HD PL" tvg-name="HBO 3 HD PL" tvg-logo="http://tugapt.com/picons/hbo3hd.png" group-title="Poland",HBO 3 HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/921
+#EXTINF:-1 tvg-id="Cinemax PL" tvg-name="CineMax 1 FHD PL" tvg-logo="http://tugapt.com/picons/cinemaxhd.png" group-title="Poland",CineMax 1 FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/941
+#EXTINF:-1 tvg-id="Cinemax PL" tvg-name="CineMax 1 HD PL" tvg-logo="http://tugapt.com/picons/cinemaxhd.png" group-title="Poland",CineMax 1 HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/6872
+#EXTINF:-1 tvg-id="Cinemax2 PL" tvg-name="Cinemax 2 FHD PL" tvg-logo="http://tugapt.com/picons/cinemax2hd.png" group-title="Poland",Cinemax 2 FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/4557
+#EXTINF:-1 tvg-id="Comedy Central PL" tvg-name="Comedy Central FHD PL" tvg-logo="http://tugapt.com/picons/comedy-central-deutschland-us-de.png" group-title="Poland",Comedy Central FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/10481
+#EXTINF:-1 tvg-id="Comedy Central PL" tvg-name="Comedy Central PL" tvg-logo="http://tugapt.com/picons/comedy-central-deutschland-us-de.png" group-title="Poland",Comedy Central PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/4556
+#EXTINF:-1 tvg-id="Comedy Central Family PL" tvg-name="Comedy Central Family PL" tvg-logo="http://tugapt.com/picons/comedycentralfamily.png" group-title="Poland",Comedy Central Family PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/4555
+#EXTINF:-1 tvg-id="Paramount Channel HD PL" tvg-name="Paramount Channel FHD PL" tvg-logo="http://tugapt.com/picons/paramount-network-us.png" group-title="Poland",Paramount Channel FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/4542
+#EXTINF:-1 tvg-id="FilmBox Premium PL" tvg-name="Filmbox Premium FHD PL" tvg-logo="http://tugapt.com/picons/filmboxpremiumhd.png" group-title="Poland",Filmbox Premium FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/923
+#EXTINF:-1 tvg-id="FilmBox Extra HD PL" tvg-name="Filmbox Extra FHD PL" tvg-logo="http://tugapt.com/picons/filmboxextrapl.png" group-title="Poland",Filmbox Extra FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/871
+#EXTINF:-1 tvg-id="FilmBox Extra HD PL" tvg-name="Filmbox Extra PL" tvg-logo="http://tugapt.com/picons/filmboxextrapl.png" group-title="Poland",Filmbox Extra PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/10466
+#EXTINF:-1 tvg-id="FilmBox Action PL" tvg-name="Filmbox Action HD PL" tvg-logo="http://tugapt.com/picons/filmboxaction.png" group-title="Poland",Filmbox Action HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/927
+#EXTINF:-1 tvg-id="FilmBox Action PL" tvg-name="Filmbox Action PL" tvg-logo="http://tugapt.com/picons/filmboxaction.png" group-title="Poland",Filmbox Action PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/926
+#EXTINF:-1 tvg-id="FilmBox Arthouse PL" tvg-name="FilmBox Arthouse PL" tvg-logo="http://tugapt.com/picons/filmboxarthousepl.png" group-title="Poland",FilmBox Arthouse PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/925
+#EXTINF:-1 tvg-id="FilmBox Family PL" tvg-name="Filmbox Family PL" tvg-logo="http://tugapt.com/picons/filmboxfamily.png" group-title="Poland",Filmbox Family PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/924
+#EXTINF:-1 tvg-id="" tvg-name="FX FHD PL" tvg-logo="" group-title="Poland",FX FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/113017
+#EXTINF:-1 tvg-id="" tvg-name="FX Comedy FHD PL" tvg-logo="" group-title="Poland",FX Comedy FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/113016
+#EXTINF:-1 tvg-id="" tvg-name="Western Movies Polska HD PL" tvg-logo="" group-title="Poland",Western Movies Polska HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/113015
+#EXTINF:-1 tvg-id="Kino Polska PL" tvg-name="Kino Polska FHD PL" tvg-logo="http://tugapt.com/picons/kino-polska-pl.png" group-title="Poland",Kino Polska FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/83773
+#EXTINF:-1 tvg-id="Kino Polska PL" tvg-name="Kino Polska PL" tvg-logo="http://tugapt.com/picons/kino-polska-pl.png" group-title="Poland",Kino Polska PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/4548
+#EXTINF:-1 tvg-id="Kino TV PL" tvg-name="Kino TV FHD PL" tvg-logo="http://tugapt.com/picons/kinotvpl.png" group-title="Poland",Kino TV FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/83772
+#EXTINF:-1 tvg-id="Kino TV PL" tvg-name="Kino TV PL" tvg-logo="http://tugapt.com/picons/kinotvpl.png" group-title="Poland",Kino TV PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/10457
+#EXTINF:-1 tvg-id="Ale kinoPlus PL" tvg-name="Ale Kino+ FHD PL" tvg-logo="http://tugapt.com/picons/alekinoplus.png" group-title="Poland",Ale Kino+ FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/960
+#EXTINF:-1 tvg-id="Ale kinoPlus PL" tvg-name="Ale Kino+ HD PL" tvg-logo="http://tugapt.com/picons/canalplus_pl_ale_kino.png" group-title="Poland",Ale Kino+ HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/6873
+#EXTINF:-1 tvg-id="AMC PL" tvg-name="AMC FHD PL" tvg-logo="http://tugapt.com/picons/amc-us.png" group-title="Poland",AMC FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/21328
+#EXTINF:-1 tvg-id="AMC PL" tvg-name="AMC PL" tvg-logo="http://tugapt.com/picons/amc-us.png" group-title="Poland",AMC PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/10483
+#EXTINF:-1 tvg-id="" tvg-name="iTVN FHD PL" tvg-logo="" group-title="Poland",iTVN FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/113003
+#EXTINF:-1 tvg-id="" tvg-name="iTVN Extra FHD PL" tvg-logo="" group-title="Poland",iTVN Extra FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/113004
+#EXTINF:-1 tvg-id="13 Ulica HD PL" tvg-name="13 Ulica FHD PL" tvg-logo="http://tugapt.com/picons/13ulica.png" group-title="Poland",13 Ulica FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/865
+#EXTINF:-1 tvg-id="13 Ulica HD PL" tvg-name="13 Ulica PL" tvg-logo="http://tugapt.com/picons/13_ulica_pl.png" group-title="Poland",13 Ulica PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/6878
+#EXTINF:-1 tvg-id="AXN PL" tvg-name="AXN FHD PL" tvg-logo="http://tugapt.com/picons/axnhdpl.png" group-title="Poland",AXN FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/10482
+#EXTINF:-1 tvg-id="AXN PL" tvg-name="AXN HD PL" tvg-logo="http://tugapt.com/picons/axnhd.png" group-title="Poland",AXN HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/957
+#EXTINF:-1 tvg-id="AXN PL" tvg-name="AXN PL" tvg-logo="http://tugapt.com/picons/axn_global.png" group-title="Poland",AXN PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/86595
+#EXTINF:-1 tvg-id="AXN White PL" tvg-name="AXN White PL" tvg-logo="http://tugapt.com/picons/axnwhitehd.png" group-title="Poland",AXN White PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/954
+#EXTINF:-1 tvg-id="AXN Black PL" tvg-name="AXN Black PL" tvg-logo="http://tugapt.com/picons/axn_black_pl.png" group-title="Poland",AXN Black PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/956
+#EXTINF:-1 tvg-id="AXN Spin PL" tvg-name="AXN Spin FHD PL" tvg-logo="http://tugapt.com/picons/axn-spin-us.png" group-title="Poland",AXN Spin FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/955
+#EXTINF:-1 tvg-id="AXN Spin PL" tvg-name="AXN Spin PL" tvg-logo="http://tugapt.com/picons/axn-spin-us.png" group-title="Poland",AXN Spin PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/6875
+#EXTINF:-1 tvg-id="TV 4 PL" tvg-name="TV 4 FHD PL" tvg-logo="http://tugapt.com/picons/tv4hdpl.png" group-title="Poland",TV 4 FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/894
+#EXTINF:-1 tvg-id="TV 4 PL" tvg-name="TV 4 HD PL" tvg-logo="http://tugapt.com/picons/tv4hdpl.png" group-title="Poland",TV 4 HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/869
+#EXTINF:-1 tvg-id="TV 4 PL" tvg-name="TV 4 PL" tvg-logo="http://tugapt.com/picons/tv4pl.png" group-title="Poland",TV 4 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/10430
+#EXTINF:-1 tvg-id="FOX HD PL" tvg-name="FOX FHD PL" tvg-logo="http://tugapt.com/picons/foxhdpl.png" group-title="Poland",FOX FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/10462
+#EXTINF:-1 tvg-id="FOX HD PL" tvg-name="FOX PL" tvg-logo="http://tugapt.com/picons/foxpl.png" group-title="Poland",FOX PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/10464
+#EXTINF:-1 tvg-id="FOX Comedy PL" tvg-name="FOX Comedy FHD PL" tvg-logo="http://tugapt.com/picons/foxcomedyhdpl.png" group-title="Poland",FOX Comedy FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/10463
+#EXTINF:-1 tvg-id="FOX Comedy PL" tvg-name="Fox Comedy PL" tvg-logo="http://tugapt.com/picons/foxcomedyhdpl.png" group-title="Poland",Fox Comedy PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/4551
+#EXTINF:-1 tvg-id="CBS Europa PL" tvg-name="CBS Europa HD PL" tvg-logo="http://tugapt.com/picons/cbseuropa.png" group-title="Poland",CBS Europa HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/943
+#EXTINF:-1 tvg-id="CBS Europa PL" tvg-name="CBS Europa FHD PL" tvg-logo="http://tugapt.com/picons/cbseuropa.png" group-title="Poland",CBS Europa FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/863
+#EXTINF:-1 tvg-id="CBS Reality PL" tvg-name="CBS Reality PL" tvg-logo="http://tugapt.com/picons/cbsreality.png" group-title="Poland",CBS Reality PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/942
+#EXTINF:-1 tvg-id="Scifi Universal PL" tvg-name="SciFi Universal PL" tvg-logo="http://tugapt.com/picons/scifi.png" group-title="Poland",SciFi Universal PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/849
+#EXTINF:-1 tvg-id="TNT PL" tvg-name="Warner TV FHD PL" tvg-logo="http://tugapt.com/picons/warnertv.png" group-title="Poland",Warner TV FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/845
+#EXTINF:-1 tvg-id="TNT PL" tvg-name="Warner TV HD PL" tvg-logo="http://tugapt.com/picons/warner_tv_us.png" group-title="Poland",Warner TV HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/6427
+#EXTINF:-1 tvg-id="TNT PL" tvg-name="Warner TV PL" tvg-logo="http://tugapt.com/picons/warner_tv_us.png" group-title="Poland",Warner TV PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/897
+#EXTINF:-1 tvg-id="Active Family PL" tvg-name="Active Family PL" tvg-logo="http://tugapt.com/picons/active_family_pl.png" group-title="Poland",Active Family PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/962
+#EXTINF:-1 tvg-id="Romance TV PL" tvg-name="Romance FHD PL" tvg-logo="http://tugapt.com/picons/romancetv..png" group-title="Poland",Romance FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/4540
+#EXTINF:-1 tvg-id="Eurosport 1 HD PL" tvg-name="Eurosport 1 FHD PL" tvg-logo="http://tugapt.com/picons/eurosport-1-fr.png" group-title="Poland",Eurosport 1 FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/861
+#EXTINF:-1 tvg-id="Eurosport 1 HD PL" tvg-name="Eurosport 1 HD PL" tvg-logo="http://tugapt.com/picons/eurosport1hd.png" group-title="Poland",Eurosport 1 HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/928
+#EXTINF:-1 tvg-id="Eurosport 1 HD PL" tvg-name="Eurosport 1 PL" tvg-logo="http://tugapt.com/picons/eurosport1pl.png" group-title="Poland",Eurosport 1 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/10468
+#EXTINF:-1 tvg-id="Eurosport 2 HD PL" tvg-name="Eurosport 2 FHD PL" tvg-logo="http://tugapt.com/picons/eurosport-2-fr.png" group-title="Poland",Eurosport 2 FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/860
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport Extra PLAYER 1 PL" tvg-logo="http://tugapt.com/picons/eurosport-player.png" group-title="Poland",Eurosport Extra PLAYER 1 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/107881
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport Extra PLAYER 2 PL" tvg-logo="http://tugapt.com/picons/eurosport-player.png" group-title="Poland",Eurosport Extra PLAYER 2 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/107880
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport Extra PLAYER 3 PL" tvg-logo="http://tugapt.com/picons/eurosport-player.png" group-title="Poland",Eurosport Extra PLAYER 3 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/107879
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport Extra PLAYER 4 PL" tvg-logo="http://tugapt.com/picons/eurosport-player.png" group-title="Poland",Eurosport Extra PLAYER 4 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/107878
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport Extra PLAYER 5 PL" tvg-logo="http://tugapt.com/picons/eurosport-player.png" group-title="Poland",Eurosport Extra PLAYER 5 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/107877
+#EXTINF:-1 tvg-id="CANALPlus Sport PL" tvg-name="Canal+ Sport FHD PL" tvg-logo="http://tugapt.com/picons/canalplussporthd.png" group-title="Poland",Canal+ Sport FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/944
+#EXTINF:-1 tvg-id="CANALPlus Sport PL" tvg-name="Canal+ Sport HD PL" tvg-logo="http://tugapt.com/picons/canalplussporthd.png" group-title="Poland",Canal+ Sport HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/945
+#EXTINF:-1 tvg-id="CANALPlus Sport PL" tvg-name="Canal+ Sport PL" tvg-logo="http://tugapt.com/picons/canalplussporthd.png" group-title="Poland",Canal+ Sport PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/946
+#EXTINF:-1 tvg-id="CANALPlus Sport 2 PL" tvg-name="Canal+ Sport 2 FHD PL" tvg-logo="http://tugapt.com/picons/canal-plus-sport-2-polska-pl.png" group-title="Poland",Canal+ Sport 2 FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/6871
+#EXTINF:-1 tvg-id="CANALPlus Sport 3 PL" tvg-name="Canal+ Sport 3 HD PL" tvg-logo="http://tugapt.com/picons/canal-plus-sport-3-polska-pl.png" group-title="Poland",Canal+ Sport 3 HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/78187
+#EXTINF:-1 tvg-id="CANALPlus Sport 3 PL" tvg-name="Canal+ Sport 3 FHD PL" tvg-logo="http://tugapt.com/picons/canal-plus-sport-3-polska-pl.png" group-title="Poland",Canal+ Sport 3 FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/78188
+#EXTINF:-1 tvg-id="CANALPlus Sport 4 PL" tvg-name="Canal+ Sport 4 HD PL" tvg-logo="http://tugapt.com/picons/canal-plus-sport-4-polska-pl.png" group-title="Poland",Canal+ Sport 4 HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/78189
+#EXTINF:-1 tvg-id="CANALPlus Sport 4 PL" tvg-name="Canal+ Sport 4 FHD PL" tvg-logo="http://tugapt.com/picons/canal-plus-sport-4-polska-pl.png" group-title="Poland",Canal+ Sport 4 FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/78190
+#EXTINF:-1 tvg-id="CANALPlus Sport 5 PL" tvg-name="CANAL+ Sport 5 HD PL" tvg-logo="http://tugapt.com/picons/canal-plus-sport-5-polska-pl.png" group-title="Poland",CANAL+ Sport 5 HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/54963
+#EXTINF:-1 tvg-id="CANALPlus NOW PL" tvg-name="Canal+ NOW FHD PL" tvg-logo="http://tugapt.com/picons/canal+now-pl.png" group-title="Poland",Canal+ NOW FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/78204
+#EXTINF:-1 tvg-id="CANALPlus Sport 2 PL" tvg-name="Canal+ Sport 2 HD PL" tvg-logo="http://tugapt.com/picons/canalplussport2hd.png" group-title="Poland",Canal+ Sport 2 HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/950
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 1 HD PL" tvg-logo="http://tugapt.com/picons/canal-plus-online.png" group-title="Poland",Canal+ Sport 1 HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/107876
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 2 PL" tvg-logo="http://tugapt.com/picons/canal-plus-online.png" group-title="Poland",Canal+ Sport 2 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/107875
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 3 PL" tvg-logo="http://tugapt.com/picons/canal-plus-online.png" group-title="Poland",Canal+ Sport 3 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/107874
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 4 PL" tvg-logo="http://tugapt.com/picons/canal-plus-online.png" group-title="Poland",Canal+ Sport 4 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/107873
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Extra 1 FHD PL" tvg-logo="" group-title="Poland",Canal+ Extra 1 FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/122782
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Extra 2 FHD PL" tvg-logo="" group-title="Poland",Canal+ Extra 2 FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/122783
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Extra 3 FHD PL" tvg-logo="" group-title="Poland",Canal+ Extra 3 FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/122784
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Extra 4 FHD PL" tvg-logo="" group-title="Poland",Canal+ Extra 4 FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/122785
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Extra 5 FHD PL" tvg-logo="" group-title="Poland",Canal+ Extra 5 FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/123103
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Extra 6 FHD PL" tvg-logo="" group-title="Poland",Canal+ Extra 6 FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/123104
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Extra 7 FHD PL" tvg-logo="" group-title="Poland",Canal+ Extra 7 FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/123105
+#EXTINF:-1 tvg-id="" tvg-name="PREMIER LEAGUE TOP EVENT FHD PL" tvg-logo="" group-title="Poland",PREMIER LEAGUE TOP EVENT FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/113014
+#EXTINF:-1 tvg-id="" tvg-name="F1 TV ViaPlay 1 HD PL" tvg-logo="" group-title="Poland",F1 TV ViaPlay 1 HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/113013
+#EXTINF:-1 tvg-id="" tvg-name="E-Sport Telewizja FHD PL" tvg-logo="" group-title="Poland",E-Sport Telewizja FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/113006
+#EXTINF:-1 tvg-id="Eleven Sports 1 PL" tvg-name="Eleven Sports 4K Ultra PL" tvg-logo="http://tugapt.com/picons/eleven-sports-1-4k.png" group-title="Poland",Eleven Sports 4K Ultra PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/107311
+#EXTINF:-1 tvg-id="Eleven Sports 1 PL" tvg-name="Eleven Sports 1 FHD PL" tvg-logo="http://tugapt.com/picons/elevensports1.png" group-title="Poland",Eleven Sports 1 FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/932
+#EXTINF:-1 tvg-id="Eleven Sports 1 PL" tvg-name="Eleven Sports 1 HD PL" tvg-logo="http://tugapt.com/picons/eleven-sports-1-portugal-uk-pt.png" group-title="Poland",Eleven Sports 1 HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/107242
+#EXTINF:-1 tvg-id="Eleven Sports 2 PL" tvg-name="Eleven Sports 2 FHD PL" tvg-logo="http://tugapt.com/picons/elevensports2.png" group-title="Poland",Eleven Sports 2 FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/931
+#EXTINF:-1 tvg-id="Eleven Sports 3 PL" tvg-name="Eleven Sports 3 FHD PL" tvg-logo="http://tugapt.com/picons/elevensports3.png" group-title="Poland",Eleven Sports 3 FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/930
+#EXTINF:-1 tvg-id="Eleven Sports 4 PL" tvg-name="Eleven Sports 4 FHD PL" tvg-logo="http://tugapt.com/picons/elevensports4.png" group-title="Poland",Eleven Sports 4 FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/929
+#EXTINF:-1 tvg-id="Extreme Sports Channel HD PL" tvg-name="Extreme Sports FHD PL" tvg-logo="http://tugapt.com/picons/extremesports.png" group-title="Poland",Extreme Sports FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/859
+#EXTINF:-1 tvg-id="Extreme Sports Channel HD PL" tvg-name="Extreme Sports HD PL" tvg-logo="http://tugapt.com/picons/extremesports.png" group-title="Poland",Extreme Sports HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/12323
+#EXTINF:-1 tvg-id="POLSAT Sport HD PL" tvg-name="Polsat Sport 1 FHD PL" tvg-logo="http://tugapt.com/picons/polsatsporthdpl.png" group-title="Poland",Polsat Sport 1 FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/10443
+#EXTINF:-1 tvg-id="POLSAT Sport Extra HD PL" tvg-name="Polsat Sport 2 FHD PL" tvg-logo="http://tugapt.com/picons/polsat-sport-extra-pl.png" group-title="Poland",Polsat Sport 2 FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/6435
+#EXTINF:-1 tvg-id="POLSAT Sport Extra HD PL" tvg-name="Polsat Sport 2 FHD (backup) PL" tvg-logo="http://tugapt.com/picons/polsat-sport-extra-pl.png" group-title="Poland",Polsat Sport 2 FHD (backup) PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/107254
+#EXTINF:-1 tvg-id="POLSAT Sport Premium 1 PL" tvg-name="Polsat Sport Premium 1 FHD VIP PL" tvg-logo="http://tugapt.com/picons/polsat-sport-premium-1-pl.png" group-title="Poland",Polsat Sport Premium 1 FHD VIP PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/16059
+#EXTINF:-1 tvg-id="POLSAT Sport Premium 2 PL" tvg-name="Polsat Sport Premium 2 FHD VIP PL" tvg-logo="http://tugapt.com/picons/polsat-sport-premium-2-pl.png" group-title="Poland",Polsat Sport Premium 2 FHD VIP PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/16060
+#EXTINF:-1 tvg-id="POLSAT Sport Fight HD PL" tvg-name="Polsat Sport Fight FHD PL" tvg-logo="http://tugapt.com/picons/polsat-sport-fight-pl.png" group-title="Poland",Polsat Sport Fight FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/6434
+#EXTINF:-1 tvg-id="FightBox HD PL" tvg-name="Fightbox HD PL" tvg-logo="http://tugapt.com/picons/fightboxhd.png" group-title="Poland",Fightbox HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/6433
+#EXTINF:-1 tvg-id="" tvg-name="Fight Network FHD PL" tvg-logo="http://tugapt.com/picons/fightnetwork.png" group-title="Poland",Fight Network FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/901
+#EXTINF:-1 tvg-id="FightBox HD PL" tvg-name="Fightbox FHD PL" tvg-logo="http://tugapt.com/picons/fightboxhd.png" group-title="Poland",Fightbox FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/858
+#EXTINF:-1 tvg-id="FightBox HD PL" tvg-name="Fightbox PL" tvg-logo="http://tugapt.com/picons/fightboxhd.png" group-title="Poland",Fightbox PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/6877
+#EXTINF:-1 tvg-id="nSportPlus HD PL" tvg-name="nSport+ FHD PL" tvg-logo="http://tugapt.com/picons/nsportplus.png" group-title="Poland",nSport+ FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/842
+#EXTINF:-1 tvg-id="Sportklub PL" tvg-name="Sport Klub FHD PL" tvg-logo="http://tugapt.com/picons/sportklub.png" group-title="Poland",Sport Klub FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/4539
+#EXTINF:-1 tvg-id="TVP HD PL" tvg-name="TVP 4K Ultra PL" tvg-logo="http://tugapt.com/picons/tvp-4k-pl.png" group-title="Poland",TVP 4K Ultra PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/110698
+#EXTINF:-1 tvg-id="TVP Sport HD PL" tvg-name="TVP Sport FHD PL" tvg-logo="http://tugapt.com/picons/tvpsporthdpl.png" group-title="Poland",TVP Sport FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/10421
+#EXTINF:-1 tvg-id="Golf Channel HD PL" tvg-name="Golf Channel FHD PL" tvg-logo="http://tugapt.com/picons/golfchannelhdpl.png" group-title="Poland",Golf Channel FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/10461
+#EXTINF:-1 tvg-id="Adventure PL" tvg-name="Adventure FHD PL" tvg-logo="http://tugapt.com/picons/adventure_pl_hd.png" group-title="Poland",Adventure FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/961
+#EXTINF:-1 tvg-id="Animal Planet HD PL" tvg-name="Animal Planet FHD PL" tvg-logo="http://tugapt.com/picons/animal-planet-us.png" group-title="Poland",Animal Planet FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/959
+#EXTINF:-1 tvg-id="BBC Brit PL" tvg-name="BBC Brit FHD PL" tvg-logo="http://tugapt.com/picons/bbc_brit_uk.png" group-title="Poland",BBC Brit FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/21327
+#EXTINF:-1 tvg-id="BBC Earth PL" tvg-name="BBC Earth HD PL" tvg-logo="http://tugapt.com/picons/bbc-earth-uk.png" group-title="Poland",BBC Earth HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/4560
+#EXTINF:-1 tvg-id="BBC HD PL" tvg-name="BBC HD PL" tvg-logo="http://tugapt.com/picons/bbc-first-uk.png" group-title="Poland",BBC HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/4559
+#EXTINF:-1 tvg-id="CI POLSAT PL" tvg-name="Crime Investigation Polsat FHD PL" tvg-logo="http://tugapt.com/picons/polsatcrimeinvestigationhd.png" group-title="Poland",Crime Investigation Polsat FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/18821
+#EXTINF:-1 tvg-id="DTX HD PL" tvg-name="DTX FHD PL" tvg-logo="http://tugapt.com/picons/dtxpl.png" group-title="Poland",DTX FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/934
+#EXTINF:-1 tvg-id="DTX HD PL" tvg-name="DTX HD PL" tvg-logo="http://tugapt.com/picons/dtxpl.png" group-title="Poland",DTX HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/10476
+#EXTINF:-1 tvg-id="Da Vinci Learning PL" tvg-name="Da Vinci Learning PL" tvg-logo="http://tugapt.com/picons/da-vinci-de.png" group-title="Poland",Da Vinci Learning PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/940
+#EXTINF:-1 tvg-id="Discovery Channel PL" tvg-name="Discovery Channel FHD PL" tvg-logo="http://tugapt.com/picons/discoverychannelhdpl.png" group-title="Poland",Discovery Channel FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/10478
+#EXTINF:-1 tvg-id="Discovery Channel PL" tvg-name="Discovery Channel HD PL" tvg-logo="http://tugapt.com/picons/discoverychannelpl.png" group-title="Poland",Discovery Channel HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/10479
+#EXTINF:-1 tvg-id="Discovery Historia PL" tvg-name="Discovery Historia PL" tvg-logo="http://tugapt.com/picons/discoveryhistoria.png" group-title="Poland",Discovery Historia PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/938
+#EXTINF:-1 tvg-id="Discovery Life PL" tvg-name="Discovery Life FHD PL" tvg-logo="http://tugapt.com/picons/discovery_life_pl.png" group-title="Poland",Discovery Life FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/937
+#EXTINF:-1 tvg-id="Discovery Life PL" tvg-name="Discovery Life PL" tvg-logo="http://tugapt.com/picons/discovery_life_pl.png" group-title="Poland",Discovery Life PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/6874
+#EXTINF:-1 tvg-id="Discovery Science PL" tvg-name="Discovery Science FHD PL" tvg-logo="http://tugapt.com/picons/discovery-science-us.png" group-title="Poland",Discovery Science FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/936
+#EXTINF:-1 tvg-id="Fokus TV PL" tvg-name="Fokus TV FHD PL" tvg-logo="http://tugapt.com/picons/fokus_tv_pl.png" group-title="Poland",Fokus TV FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/4552
+#EXTINF:-1 tvg-id="History PL" tvg-name="History FHD PL" tvg-logo="http://tugapt.com/picons/historyhdpl.png" group-title="Poland",History FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/10460
+#EXTINF:-1 tvg-id="History PL" tvg-name="History PL" tvg-logo="http://tugapt.com/picons/historyhdpl.png" group-title="Poland",History PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/919
+#EXTINF:-1 tvg-id="H2 HD PL" tvg-name="History 2 FHD PL" tvg-logo="http://tugapt.com/picons/history2.png" group-title="Poland",History 2 FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/857
+#EXTINF:-1 tvg-id="Investigation Discovery HD PL" tvg-name="Investigation Discovery FHD PL" tvg-logo="http://tugapt.com/picons/investigationdiscoveryhdpl.png" group-title="Poland",Investigation Discovery FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/10458
+#EXTINF:-1 tvg-id="Investigation Discovery HD PL" tvg-name="Investigation Discovery PL" tvg-logo="http://tugapt.com/picons/investigationdiscoverypl.png" group-title="Poland",Investigation Discovery PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/10459
+#EXTINF:-1 tvg-id="National Geographic PL" tvg-name="Nat Geo FHD PL" tvg-logo="http://tugapt.com/picons/national-geographic-wild-us.png" group-title="Poland",Nat Geo FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/852
+#EXTINF:-1 tvg-id="National Geographic PL" tvg-name="Nat Geo PL" tvg-logo="http://tugapt.com/picons/national-geographic-us.png" group-title="Poland",Nat Geo PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/914
+#EXTINF:-1 tvg-id="Nat Geo People HD PL" tvg-name="Nat Geo People FHD PL" tvg-logo="http://tugapt.com/picons/natgeopeoplehd.png" group-title="Poland",Nat Geo People FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/853
+#EXTINF:-1 tvg-id="Nat Geo Wild PL" tvg-name="Nat Geo Wild FHD PL" tvg-logo="http://tugapt.com/picons/natgeowildhdpl.png" group-title="Poland",Nat Geo Wild FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/10453
+#EXTINF:-1 tvg-id="Nat Geo Wild PL" tvg-name="Nat Geo Wild PL" tvg-logo="http://tugapt.com/picons/national-geographic-wild-us.png" group-title="Poland",Nat Geo Wild PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/915
+#EXTINF:-1 tvg-id="Motowizja PL" tvg-name="Motorwizja PL" tvg-logo="http://tugapt.com/picons/motowizja_tv_pl.png" group-title="Poland",Motorwizja PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/916
+#EXTINF:-1 tvg-id="PlanetePlus HD PL" tvg-name="Planete+ FHD PL" tvg-logo="http://tugapt.com/picons/planetepluspl.png" group-title="Poland",Planete+ FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/913
+#EXTINF:-1 tvg-id="PlanetePlus HD PL" tvg-name="Planete+ PL" tvg-logo="http://tugapt.com/picons/canalplus_pl_planete.png" group-title="Poland",Planete+ PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/6887
+#EXTINF:-1 tvg-id="POLSAT Doku HD PL" tvg-name="Polsat Doku FHD PL" tvg-logo="http://tugapt.com/picons/polsatdokuhdpl.png" group-title="Poland",Polsat Doku FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/10449
+#EXTINF:-1 tvg-id="POLSAT Viasat History HD PL" tvg-name="Polsat Viasat History FHD PL" tvg-logo="http://tugapt.com/picons/viasat_history_pl.png" group-title="Poland",Polsat Viasat History FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/10442
+#EXTINF:-1 tvg-id="POLSAT Viasat Explore HD PL" tvg-name="Polsat Viasat Explore FHD PL" tvg-logo="http://tugapt.com/picons/viasat_explore_pl.png" group-title="Poland",Polsat Viasat Explore FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/903
+#EXTINF:-1 tvg-id="POLSAT Viasat Nature PL" tvg-name="Polsat Viasat Nature FHD PL" tvg-logo="http://tugapt.com/picons/viasat_nature_pl.png" group-title="Poland",Polsat Viasat Nature FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/6109
+#EXTINF:-1 tvg-id="" tvg-name="Viasat True Crime FHD PL" tvg-logo="" group-title="Poland",Viasat True Crime FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/124695
+#EXTINF:-1 tvg-id="" tvg-name="TheBlaze TV PL" tvg-logo="http://tugapt.com/picons/theblazetvpl.png" group-title="Poland",TheBlaze TV PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/4046
+#EXTINF:-1 tvg-id="Travel Channel HD PL" tvg-name="Travel Channel FHD PL" tvg-logo="http://tugapt.com/picons/travel-channel-east-us.png" group-title="Poland",Travel Channel FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/4538
+#EXTINF:-1 tvg-id="4FUN DANCE PL" tvg-name="4Fun Dance PL" tvg-logo="http://tugapt.com/picons/4fundancepl.png" group-title="Poland",4Fun Dance PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/10486
+#EXTINF:-1 tvg-id="4FUN GOLD HITS PL" tvg-name="4Fun Gold Hits PL" tvg-logo="http://tugapt.com/picons/4fungoldhitspl.png" group-title="Poland",4Fun Gold Hits PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/10485
+#EXTINF:-1 tvg-id="4Fun TV PL" tvg-name="4Fun TV PL" tvg-logo="http://tugapt.com/picons/4-fun-tv-pl.png" group-title="Poland",4Fun TV PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/4562
+#EXTINF:-1 tvg-id="TVP Rozrywka PL" tvg-name="Xtreme TV FHD PL" tvg-logo="http://tugapt.com/picons/tvp-rozrywka-pl.png" group-title="Poland",Xtreme TV FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/958
+#EXTINF:-1 tvg-id="Disco Polo Music PL" tvg-name="Disco Polo Music HD PL" tvg-logo="http://tugapt.com/picons/disco-polo-music-pl.png" group-title="Poland",Disco Polo Music HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/10488
+#EXTINF:-1 tvg-id="Disco Polo Music PL" tvg-name="Disco Polo Music PL" tvg-logo="http://tugapt.com/picons/disco-polo-music-pl.png" group-title="Poland",Disco Polo Music PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/4554
+#EXTINF:-1 tvg-id="Eska TV Extra PL" tvg-name="Eska TV Extra PL" tvg-logo="http://tugapt.com/picons/eskatvextrapl.png" group-title="Poland",Eska TV Extra PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/10471
+#EXTINF:-1 tvg-id="Eska TV PL" tvg-name="Eska TV PL" tvg-logo="http://tugapt.com/picons/eskatvpl.png" group-title="Poland",Eska TV PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/10472
+#EXTINF:-1 tvg-id="Kino Polska Muzyka PL" tvg-name="Kino Polska Muzyka PL" tvg-logo="http://tugapt.com/picons/kinopolskamuzyka.png" group-title="Poland",Kino Polska Muzyka PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/918
+#EXTINF:-1 tvg-id="MTV Live HD PL" tvg-name="MTV Live FHD PL" tvg-logo="http://tugapt.com/picons/mtvlivehdpl.png" group-title="Poland",MTV Live FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/10455
+#EXTINF:-1 tvg-id="MTV Polska PL" tvg-name="MTV Polska FHD PL" tvg-logo="http://tugapt.com/picons/mtvhdpl.png" group-title="Poland",MTV Polska FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/10454
+#EXTINF:-1 tvg-id="MTV Polska PL" tvg-name="MTV Polska PL" tvg-logo="http://tugapt.com/picons/mtv-us.png" group-title="Poland",MTV Polska PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/4545
+#EXTINF:-1 tvg-id="Nuta.TV PL" tvg-name="Nuta.TV PL" tvg-logo="http://tugapt.com/picons/nutatvpl.png" group-title="Poland",Nuta.TV PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/10451
+#EXTINF:-1 tvg-id="Polo TV PL" tvg-name="Polo TV FHD PL" tvg-logo="http://tugapt.com/picons/polo-tv-pl.png" group-title="Poland",Polo TV FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/912
+#EXTINF:-1 tvg-id="POLSAT Music PL" tvg-name="Polsat Music FHD PL" tvg-logo="http://tugapt.com/picons/polsatmusichdpl.png" group-title="Poland",Polsat Music FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/10447
+#EXTINF:-1 tvg-id="Power TV PL" tvg-name="Power TV PL" tvg-logo="http://tugapt.com/picons/powertvpl.png" group-title="Poland",Power TV PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/10441
+#EXTINF:-1 tvg-id="VOX Music TV PL" tvg-name="VOX Music TV PL" tvg-logo="http://tugapt.com/picons/vox-music-tv-pl.png" group-title="Poland",VOX Music TV PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/873
+#EXTINF:-1 tvg-id="VH1 PL" tvg-name="VH1 PL" tvg-logo="http://tugapt.com/picons/vh1pl.png" group-title="Poland",VH1 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/10417
+#EXTINF:-1 tvg-id="STARS.TV PL" tvg-name="Stars TV PL" tvg-logo="http://tugapt.com/picons/starstv.png" group-title="Poland",Stars TV PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/848
+#EXTINF:-1 tvg-id="Trace Urban PL" tvg-name="Trace Urban Muzik HD PL" tvg-logo="http://tugapt.com/picons/traceurbanpl.png" group-title="Poland",Trace Urban Muzik HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/10434
+#EXTINF:-1 tvg-id="" tvg-name="2x2 HD PL" tvg-logo="http://tugapt.com/picons/2x2-pl.png" group-title="Poland",2x2 HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/111309
+#EXTINF:-1 tvg-id="Baby TV PL" tvg-name="Baby TV PL" tvg-logo="http://tugapt.com/picons/babytv.png" group-title="Poland",Baby TV PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/24160
+#EXTINF:-1 tvg-id="Boomerang PL" tvg-name="Boomerang PL" tvg-logo="http://tugapt.com/picons/boomerang.png" group-title="Poland",Boomerang PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/843
+#EXTINF:-1 tvg-id="Cartoon Network PL" tvg-name="Cartoon Network FHD PL" tvg-logo="http://tugapt.com/picons/cartoonnetwork.png" group-title="Poland",Cartoon Network FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/864
+#EXTINF:-1 tvg-id="CBeebies PL" tvg-name="Cbeebies PL" tvg-logo="http://tugapt.com/picons/cbeebies-uk.png" group-title="Poland",Cbeebies PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/4558
+#EXTINF:-1 tvg-id="Disney Channel PL" tvg-name="Disney Channel FHD PL" tvg-logo="http://tugapt.com/picons/disney-channel-us.png" group-title="Poland",Disney Channel FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/963
+#EXTINF:-1 tvg-id="Disney Junior PL" tvg-name="Disney Junior PL" tvg-logo="http://tugapt.com/picons/disney_junior_us.png" group-title="Poland",Disney Junior PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/862
+#EXTINF:-1 tvg-id="Disney XD PL" tvg-name="Disney XD PL" tvg-logo="http://tugapt.com/picons/disney_xd_us.png" group-title="Poland",Disney XD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/935
+#EXTINF:-1 tvg-id="MiniMiniPlus HD PL" tvg-name="MiniMini+ FHD PL" tvg-logo="http://tugapt.com/picons/canalplus_pl_mini_mini.png" group-title="Poland",MiniMini+ FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/6436
+#EXTINF:-1 tvg-id="MiniMiniPlus HD PL" tvg-name="MiniMini+ HD PL" tvg-logo="http://tugapt.com/picons/miniminiplushd.png" group-title="Poland",MiniMini+ HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/854
+#EXTINF:-1 tvg-id="Nick Jr. PL" tvg-name="Nick JR. PL" tvg-logo="http://tugapt.com/picons/nickjr.png" group-title="Poland",Nick JR. PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/4544
+#EXTINF:-1 tvg-id="Nickelodeon PL" tvg-name="Nickelodeon PL" tvg-logo="http://tugapt.com/picons/nickelodeon-us.png" group-title="Poland",Nickelodeon PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/4543
+#EXTINF:-1 tvg-id="POLSAT JimJam PL" tvg-name="Polsat JimJam PL" tvg-logo="http://tugapt.com/picons/jimjam-polsat-uk-pl.png" group-title="Poland",Polsat JimJam PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/4549
+#EXTINF:-1 tvg-id="TVP ABC PL" tvg-name="TVP ABC PL" tvg-logo="http://tugapt.com/picons/tvp-abc-pl.png" group-title="Poland",TVP ABC PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/886
+#EXTINF:-1 tvg-id="teleTOONPlus HD PL" tvg-name="TeleToon+ FHD PL" tvg-logo="http://tugapt.com/picons/teletoonplushd.png" group-title="Poland",TeleToon+ FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/898
+#EXTINF:-1 tvg-id="teleTOONPlus HD PL" tvg-name="TeleToon+ PL" tvg-logo="http://tugapt.com/picons/canalplus_pl_teletoon.png" group-title="Poland",TeleToon+ PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/6883
+#EXTINF:-1 tvg-id="HGTV PL" tvg-name="HGTV FHD PL" tvg-logo="http://tugapt.com/picons/hgtv-us.png" group-title="Poland",HGTV FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/6888
+#EXTINF:-1 tvg-id="HGTV PL" tvg-name="HGTV PL" tvg-logo="http://tugapt.com/picons/hgtv-us.png" group-title="Poland",HGTV PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/920
+#EXTINF:-1 tvg-id="TLC PL" tvg-name="TLC FHD PL" tvg-logo="http://tugapt.com/picons/tlchd..png" group-title="Poland",TLC FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/846
+#EXTINF:-1 tvg-id="TLC PL" tvg-name="TLC PL" tvg-logo="http://tugapt.com/picons/tlc.png" group-title="Poland",TLC PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/6876
+#EXTINF:-1 tvg-id="DomoPlus PL" tvg-name="Domo+ HD PL" tvg-logo="http://tugapt.com/picons/domoplus.png" group-title="Poland",Domo+ HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/7798
+#EXTINF:-1 tvg-id="E! HD PL" tvg-name="E! FHD PL" tvg-logo="http://tugapt.com/picons/ehd.png" group-title="Poland",E! FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/933
+#EXTINF:-1 tvg-id="Epic Drama PL" tvg-name="Epic Drama FHD PL" tvg-logo="http://tugapt.com/picons/epic-drama-pl.png" group-title="Poland",Epic Drama FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/10418
+#EXTINF:-1 tvg-id="Lifetime HD PL" tvg-name="Lifetime FHD PL" tvg-logo="http://tugapt.com/picons/lifetimehdpl.png" group-title="Poland",Lifetime FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/855
+#EXTINF:-1 tvg-id="Lifetime HD PL" tvg-name="Lifetime HD PL" tvg-logo="http://tugapt.com/picons/lifetimehdpl.png" group-title="Poland",Lifetime HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/10487
+#EXTINF:-1 tvg-id="POLSAT Games PL" tvg-name="Polsat Games FHD PL" tvg-logo="http://tugapt.com/picons/polsat-games-pl.png" group-title="Poland",Polsat Games FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/21792
+#EXTINF:-1 tvg-id="POLSAT Play PL" tvg-name="Polsat Play HD PL" tvg-logo="http://tugapt.com/picons/polsat-play-pl.png" group-title="Poland",Polsat Play HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/107253
+#EXTINF:-1 tvg-id="POLSAT Play PL" tvg-name="Polsat Play FHD PL" tvg-logo="http://tugapt.com/picons/polsat-play-pl.png" group-title="Poland",Polsat Play FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/6428
+#EXTINF:-1 tvg-id="POLSAT Rodzina PL" tvg-name="Polsat Rodzina FHD PL" tvg-logo="http://tugapt.com/picons/polsat-rodzina-pl.png" group-title="Poland",Polsat Rodzina FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/21793
+#EXTINF:-1 tvg-id="TVN Style PL" tvg-name="TVN Style FHD PL" tvg-logo="http://tugapt.com/picons/tvnstylehdpl.png" group-title="Poland",TVN Style FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/10428
+#EXTINF:-1 tvg-id="TVN Style PL" tvg-name="TVN Style FHD (backup) PL" tvg-logo="http://tugapt.com/picons/tvnstylehdpl.png" group-title="Poland",TVN Style FHD (backup) PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/107251
+#EXTINF:-1 tvg-id="METRO PL" tvg-name="METRO PL" tvg-logo="http://tugapt.com/picons/metro_tv_pl.png" group-title="Poland",METRO PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/4546
+#EXTINF:-1 tvg-id="Nowa TV PL" tvg-name="Nowa TV PL" tvg-logo="http://tugapt.com/picons/nowatvpl.png" group-title="Poland",Nowa TV PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/10452
+#EXTINF:-1 tvg-id="Stopklatka TV PL" tvg-name="Stopklatka TV PL" tvg-logo="http://tugapt.com/picons/stopklatka-tv-pl.png" group-title="Poland",Stopklatka TV PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/900
+#EXTINF:-1 tvg-id="Sundance Channel HD PL" tvg-name="Sundance FHD PL" tvg-logo="http://tugapt.com/picons/sundancetvhd.png" group-title="Poland",Sundance FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/847
+#EXTINF:-1 tvg-id="Super Polsat PL" tvg-name="Super Polsat FHD PL" tvg-logo="http://tugapt.com/picons/super-polsat-pl.png" group-title="Poland",Super Polsat FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/899
+#EXTINF:-1 tvg-id="Superstacja PL" tvg-name="Superstacja FHD PL" tvg-logo="http://tugapt.com/picons/superstacjapl.png" group-title="Poland",Superstacja FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/10439
+#EXTINF:-1 tvg-id="TV Republika PL" tvg-name="TV Republika HD PL" tvg-logo="http://tugapt.com/picons/tv-republika-pl.png" group-title="Poland",TV Republika HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/16004
+#EXTINF:-1 tvg-id="TV Republika PL" tvg-name="TV Republika PL" tvg-logo="http://tugapt.com/picons/tv-republika-pl.png" group-title="Poland",TV Republika PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/895
+#EXTINF:-1 tvg-id="TVS PL" tvg-name="TVS PL" tvg-logo="http://tugapt.com/picons/tvspl..png" group-title="Poland",TVS PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/881
+#EXTINF:-1 tvg-id="WP PL" tvg-name="WP PL" tvg-logo="http://tugapt.com/picons/wppl.png" group-title="Poland",WP PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/10413
+#EXTINF:-1 tvg-id="ZOOM TV PL" tvg-name="Zoom TV PL" tvg-logo="http://tugapt.com/picons/zoomtvpl.png" group-title="Poland",Zoom TV PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/10411
+#EXTINF:-1 tvg-id="TV Trwam PL" tvg-name="TV Trwam PL" tvg-logo="http://tugapt.com/picons/tv-trwam-pl.png" group-title="Poland",TV Trwam PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/4537
+#EXTINF:-1 tvg-id="TVP 3 Bialystok PL" tvg-name="TVP 3 Białystok PL" tvg-logo="http://tugapt.com/picons/tvp3bialystok.png" group-title="Poland",TVP 3 Białystok PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/16053
+#EXTINF:-1 tvg-id="TVP 3 Bydgoszcz PL" tvg-name="TVP 3 Bydgoszcz PL" tvg-logo="http://tugapt.com/picons/tvp3bydgoszcz.png" group-title="Poland",TVP 3 Bydgoszcz PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/16054
+#EXTINF:-1 tvg-id="TVP 3 Gdansk PL" tvg-name="TVP 3 Gdańsk PL" tvg-logo="http://tugapt.com/picons/tvp3gdansk.png" group-title="Poland",TVP 3 Gdańsk PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/15876
+#EXTINF:-1 tvg-id="TVP 3 Katowice PL" tvg-name="TVP 3 Katowice PL" tvg-logo="http://tugapt.com/picons/tvp3katowice.png" group-title="Poland",TVP 3 Katowice PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/15877
+#EXTINF:-1 tvg-id="TVP 3 Kielce PL" tvg-name="TVP 3 Kielce PL" tvg-logo="http://tugapt.com/picons/tvp3kielce.png" group-title="Poland",TVP 3 Kielce PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/16052
+#EXTINF:-1 tvg-id="TVP 3 Krakow PL" tvg-name="TVP 3 Kraków PL" tvg-logo="http://tugapt.com/picons/tvp3krakow.png" group-title="Poland",TVP 3 Kraków PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/16048
+#EXTINF:-1 tvg-id="TVP 3 Lublin PL" tvg-name="TVP 3 Lublin PL" tvg-logo="http://tugapt.com/picons/tvp3lublin.png" group-title="Poland",TVP 3 Lublin PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/16055
+#EXTINF:-1 tvg-id="TVP 3 Olsztyn PL" tvg-name="TVP 3 Olsztyn PL" tvg-logo="http://tugapt.com/picons/tvp3olsztyn.png" group-title="Poland",TVP 3 Olsztyn PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/16056
+#EXTINF:-1 tvg-id="TVP 3 Opole PL" tvg-name="TVP 3 Opole PL" tvg-logo="http://tugapt.com/picons/tvp3opole.png" group-title="Poland",TVP 3 Opole PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/16049
+#EXTINF:-1 tvg-id="TVP 3 PL" tvg-name="TVP 3 PL" tvg-logo="http://tugapt.com/picons/tvp3.png" group-title="Poland",TVP 3 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/838
+#EXTINF:-1 tvg-id="TVP 3 Poznan PL" tvg-name="TVP 3 Poznań PL" tvg-logo="http://tugapt.com/picons/tvp3poznan.png" group-title="Poland",TVP 3 Poznań PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/15878
+#EXTINF:-1 tvg-id="TVP 3 Rzeszow PL" tvg-name="TVP 3 Rzeszów PL" tvg-logo="http://tugapt.com/picons/tvp3rzeszow.png" group-title="Poland",TVP 3 Rzeszów PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/16057
+#EXTINF:-1 tvg-id="TVP 3 Szczecin PL" tvg-name="TVP 3 Szczecin PL" tvg-logo="http://tugapt.com/picons/tvp3szczecin.png" group-title="Poland",TVP 3 Szczecin PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/15875
+#EXTINF:-1 tvg-id="TVP 3 Warszawa PL" tvg-name="TVP 3 Warszawa FHD PL" tvg-logo="http://tugapt.com/picons/tvp3warszawapl.png" group-title="Poland",TVP 3 Warszawa FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/10425
+#EXTINF:-1 tvg-id="TVP 3 Wroclaw PL" tvg-name="TVP 3 Wrocław PL" tvg-logo="http://tugapt.com/picons/tvp3wroclaw.png" group-title="Poland",TVP 3 Wrocław PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/16050
+#EXTINF:-1 tvg-id="TVP 3 Lodz PL" tvg-name="TVP 3 Łódź PL" tvg-logo="http://tugapt.com/picons/tvp3lodz.png" group-title="Poland",TVP 3 Łódź PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/16051
+#EXTINF:-1 tvg-id="" tvg-name="TVP 3 Gorzów Wielkopolski PL" tvg-logo="" group-title="Poland",TVP 3 Gorzów Wielkopolski PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/116588
+#EXTINF:-1 tvg-id="" tvg-name="TV Kujawy PL" tvg-logo="http://tugapt.com/picons/tvkujawy.png" group-title="Poland",TV Kujawy PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/16006
+#EXTINF:-1 tvg-id="" tvg-name="TV Toruń PL" tvg-logo="http://tugapt.com/picons/tv-torun-pl.png" group-title="Poland",TV Toruń PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/21151
+#EXTINF:-1 tvg-id="TVT PL" tvg-name="TVT Zgorzelec PL" tvg-logo="http://tugapt.com/picons/tvt-hd-pl.png" group-title="Poland",TVT Zgorzelec PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/15318
+#EXTINF:-1 tvg-id="Bollywood HD PL" tvg-name="BollyWood FHD PL" tvg-logo="http://tugapt.com/picons/bollywood-hd.png" group-title="Poland",BollyWood FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/107483
+#EXTINF:-1 tvg-id="" tvg-name="Prime MMA FHD PL" tvg-logo="http://tugapt.com/picons/prime-show-mma-4-logo.png" group-title="Poland",Prime MMA FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/107482
+#EXTINF:-1 tvg-id="News24 PL" tvg-name="Ultra TV 4K Ultra HD PL" tvg-logo="http://tugapt.com/picons/news24-pl.png" group-title="Poland",Ultra TV 4K Ultra HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/107481
+#EXTINF:-1 tvg-id="TVP World PL" tvg-name="Dla Ciebie FHD PL" tvg-logo="http://tugapt.com/picons/tvp-world-pl.png" group-title="Poland",Dla Ciebie FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/107480
+#EXTINF:-1 tvg-id="" tvg-name="VOD 202 PL" tvg-logo="http://tugapt.com/picons/cyfrowy_polsat_vod.png" group-title="Poland",VOD 202 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/880
+#EXTINF:-1 tvg-id="" tvg-name="VOD 203 PL" tvg-logo="" group-title="Poland",VOD 203 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/124692
+#EXTINF:-1 tvg-id="" tvg-name="VOD 204 PL" tvg-logo="http://tugapt.com/picons/cyfrowy_polsat_vod.png" group-title="Poland",VOD 204 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/874
+#EXTINF:-1 tvg-id="" tvg-name="VOD 205 PL" tvg-logo="http://tugapt.com/picons/cyfrowy_polsat_vod.png" group-title="Poland",VOD 205 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/879
+#EXTINF:-1 tvg-id="" tvg-name="VOD 206 PL" tvg-logo="http://tugapt.com/picons/cyfrowy_polsat_vod.png" group-title="Poland",VOD 206 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/878
+#EXTINF:-1 tvg-id="" tvg-name="VOD 207 PL" tvg-logo="http://tugapt.com/picons/cyfrowy_polsat_vod.png" group-title="Poland",VOD 207 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/877
+#EXTINF:-1 tvg-id="" tvg-name="VOD 208 PL" tvg-logo="http://tugapt.com/picons/cyfrowy_polsat_vod.png" group-title="Poland",VOD 208 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/876
+#EXTINF:-1 tvg-id="" tvg-name="VOD 212 PL" tvg-logo="http://tugapt.com/picons/cyfrowy_polsat_vod.png" group-title="Poland",VOD 212 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/875
+#EXTINF:-1 tvg-id="" tvg-name="Golf Zone PL" tvg-logo="" group-title="Poland",Golf Zone PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/124682
+#EXTINF:-1 tvg-id="" tvg-name="Film Cafe FHD PL" tvg-logo="" group-title="Poland",Film Cafe FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/124681
+#EXTINF:-1 tvg-id="" tvg-name="Sky ShowTime 1 FHD PL" tvg-logo="" group-title="Poland",Sky ShowTime 1 FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/124673
+#EXTINF:-1 tvg-id="" tvg-name="Sky ShowTime 2 FHD PL" tvg-logo="" group-title="Poland",Sky ShowTime 2 FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/124674
+#EXTINF:-1 tvg-id="TVP Wilno PL" tvg-name="F1 TV ViaPlay 2 HD PL" tvg-logo="http://tugapt.com/picons/tvp-wilno-pl.png" group-title="Poland",F1 TV ViaPlay 2 HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/107479
+#EXTINF:-1 tvg-id="" tvg-name="KSW PPV (Match Time) PL" tvg-logo="http://tugapt.com/picons/kswtv-pl.png" group-title="Poland",KSW PPV (Match Time) PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/43690
+#EXTINF:-1 tvg-id="Nicktoons PL" tvg-name="Nicktoons HD PL" tvg-logo="http://tugapt.com/picons/nicktoons-us.png" group-title="Poland",Nicktoons HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/78600
+#EXTINF:-1 tvg-id="BBC Lifestyle PL" tvg-name="BBC LIFESTYLE FHD PL" tvg-logo="http://tugapt.com/picons/bbc_lifestyle_uk.png" group-title="Poland",BBC LIFESTYLE FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/79819
+#EXTINF:-1 tvg-id="Eska Rock TV PL" tvg-name="ESKA ROCK TV PL" tvg-logo="http://tugapt.com/picons/eskarocktv.png" group-title="Poland",ESKA ROCK TV PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/82750
+#EXTINF:-1 tvg-id="BBC First PL" tvg-name="BBC FIRST FHD PL" tvg-logo="http://tugapt.com/picons/bbc-first-uk.png" group-title="Poland",BBC FIRST FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/82812
+#EXTINF:-1 tvg-id="MTV 90s PL" tvg-name="MTV 90s PL" tvg-logo="http://tugapt.com/picons/mtv-90s.png" group-title="Poland",MTV 90s PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/83523
+#EXTINF:-1 tvg-id="Fightklub HD PL" tvg-name="Fightklub FHD PL" tvg-logo="http://tugapt.com/picons/fight_klub_pl.png" group-title="Poland",Fightklub FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/83533
+#EXTINF:-1 tvg-id="Red Carpet TV PL" tvg-name="Red Carpet FHD PL" tvg-logo="http://tugapt.com/picons/red-carpet-pl.png" group-title="Poland",Red Carpet FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/83536
+#EXTINF:-1 tvg-id="TV Okazje PL" tvg-name="TV Okazje PL" tvg-logo="http://tugapt.com/picons/tv-okazje-pl.png" group-title="Poland",TV Okazje PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/83537
+#EXTINF:-1 tvg-id="wPolsce.pl PL" tvg-name="WPolsce PL" tvg-logo="http://tugapt.com/picons/w-polsce-pl.png" group-title="Poland",WPolsce PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/83538
+#EXTINF:-1 tvg-id="CANALPlus DOKUMENT PL" tvg-name="CANAL+ DOKUMENT HD PL" tvg-logo="http://tugapt.com/picons/canal-plus-dokument-pl.png" group-title="Poland",CANAL+ DOKUMENT HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/83539
+#EXTINF:-1 tvg-id="Boomerang PL" tvg-name="Boomerang FHD PL" tvg-logo="http://tugapt.com/picons/boomerang-us.png" group-title="Poland",Boomerang FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/83768
+#EXTINF:-1 tvg-id="CBS Reality PL" tvg-name="CBS Reality FHD PL" tvg-logo="http://tugapt.com/picons/cbs-reality-uk.png" group-title="Poland",CBS Reality FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/83769
+#EXTINF:-1 tvg-id="BBC Earth PL" tvg-name="BBC Earth FHD PL" tvg-logo="http://tugapt.com/picons/bbc-earth-uk.png" group-title="Poland",BBC Earth FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/83770
+#EXTINF:-1 tvg-id="Biznes24 HD PL" tvg-name="Biznes24 FHD PL" tvg-logo="http://tugapt.com/picons/biznes-24-pl.png" group-title="Poland",Biznes24 FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/83771
+#EXTINF:-1 tvg-id="StudioMED TV PL" tvg-name="StudioMed TV FHD PL" tvg-logo="http://tugapt.com/picons/studiomed-tv-pl.png" group-title="Poland",StudioMed TV FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/83774
+#EXTINF:-1 tvg-id="Scifi Universal PL" tvg-name="SciFi FHD PL" tvg-logo="http://tugapt.com/picons/scifi-polska-us-pl.png" group-title="Poland",SciFi FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/83775
+#EXTINF:-1 tvg-id="" tvg-name="TVR PL" tvg-logo="http://tugapt.com/picons/tv-republika-pl.png" group-title="Poland",TVR PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/83776
+#EXTINF:-1 tvg-id="Disco Polo Music PL" tvg-name="Disco Polo Music FHD PL" tvg-logo="http://tugapt.com/picons/disco-polo-music-pl.png" group-title="Poland",Disco Polo Music FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/86598
+#EXTINF:-1 tvg-id="DomoPlus PL" tvg-name="Domo+ FHD PL" tvg-logo="http://tugapt.com/picons/domoplushd.png" group-title="Poland",Domo+ FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/86600
+#EXTINF:-1 tvg-id="Motowizja PL" tvg-name="Motowizja FHD PL" tvg-logo="http://tugapt.com/picons/motowizja_tv_pl.png" group-title="Poland",Motowizja FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/86602
+#EXTINF:-1 tvg-id="Novela tv PL" tvg-name="Novela TV PL" tvg-logo="http://tugapt.com/picons/novela_tv_pl.png" group-title="Poland",Novela TV PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/86604
+#EXTINF:-1 tvg-id="Polonia 1 PL" tvg-name="Polonia 1 PL" tvg-logo="http://tugapt.com/picons/polonia1.png" group-title="Poland",Polonia 1 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/86605
+#EXTINF:-1 tvg-id="POLSAT Cafe PL" tvg-name="Polsat Cafe FHD PL" tvg-logo="http://tugapt.com/picons/polsat-cafe-pl.png" group-title="Poland",Polsat Cafe FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/86606
+#EXTINF:-1 tvg-id="POLSAT Cafe PL" tvg-name="Polsat Cafe FHD (backup) PL" tvg-logo="http://tugapt.com/picons/polsat-cafe-pl.png" group-title="Poland",Polsat Cafe FHD (backup) PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/107249
+#EXTINF:-1 tvg-id="POLSAT Sport News PL" tvg-name="Polsat Sport 3 FHD PL" tvg-logo="http://tugapt.com/picons/polsat-sport-news-pl.png" group-title="Poland",Polsat Sport 3 FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/86609
+#EXTINF:-1 tvg-id="POLSAT Sport Premium 3 PL" tvg-name="Polsat Sport Premium PPV 3 FHD PL" tvg-logo="http://tugapt.com/picons/polsat-sport-premium-3-ppv-pl.png" group-title="Poland",Polsat Sport Premium PPV 3 FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/86610
+#EXTINF:-1 tvg-id="POLSAT Sport Premium 4 PL" tvg-name="Polsat Sport Premium PPV 4 FHD PL" tvg-logo="http://tugapt.com/picons/polsat-sport-premium-4-ppv-pl.png" group-title="Poland",Polsat Sport Premium PPV 4 FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/86611
+#EXTINF:-1 tvg-id="POLSAT Sport Premium 5 PL" tvg-name="Polsat Sport Premium PPV 5 FHD PL" tvg-logo="http://tugapt.com/picons/polsat-sport-premium-5-ppv-pl.png" group-title="Poland",Polsat Sport Premium PPV 5 FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/86612
+#EXTINF:-1 tvg-id="POLSAT Sport Premium 6 PL" tvg-name="Polsat Sport Premium PPV 6 FHD PL" tvg-logo="http://tugapt.com/picons/polsat-sport-premium-6-ppv-pl.png" group-title="Poland",Polsat Sport Premium PPV 6 FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/86613
+#EXTINF:-1 tvg-id="TVP Polonia PL" tvg-name="TVP Polonia PL" tvg-logo="http://tugapt.com/picons/tvppoloniapl.png" group-title="Poland",TVP Polonia PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/10422
+#EXTINF:-1 tvg-id="TBN Polska PL" tvg-name="TBN Poland PL" tvg-logo="http://tugapt.com/picons/tbn-polska-pl.png" group-title="Poland",TBN Poland PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/86614
+#EXTINF:-1 tvg-id="Tele 5 PL" tvg-name="Tele 5 PL" tvg-logo="http://tugapt.com/picons/tele-5-pl.png" group-title="Poland",Tele 5 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/86615
+#EXTINF:-1 tvg-id="Top Kids PL" tvg-name="TOP Kids FHD PL" tvg-logo="http://tugapt.com/picons/top-kids-hd-pl.png" group-title="Poland",TOP Kids FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/86617
+#EXTINF:-1 tvg-id="Water Planet PL" tvg-name="Water Planet PL" tvg-logo="http://tugapt.com/picons/water_planet_pl.png" group-title="Poland",Water Planet PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/86618
+#EXTINF:-1 tvg-id="" tvg-name="Eurodance 90 HD PL" tvg-logo="" group-title="Poland",Eurodance 90 HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/113005
+#EXTINF:-1 tvg-id="" tvg-name="ViaPlay Xtra 3 PL" tvg-logo="http://tugapt.com/picons/viaplay-xtra-uk.png" group-title="Poland",ViaPlay Xtra 3 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/105326
+#EXTINF:-1 tvg-id="" tvg-name="ViaPlay Xtra 4 PL" tvg-logo="http://tugapt.com/picons/viaplay-xtra-uk.png" group-title="Poland",ViaPlay Xtra 4 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/105325
+#EXTINF:-1 tvg-id="" tvg-name="ViaPlay Xtra 5 PL" tvg-logo="http://tugapt.com/picons/viaplay-xtra-uk.png" group-title="Poland",ViaPlay Xtra 5 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/105324
+#EXTINF:-1 tvg-id="" tvg-name="ViaPlay Xtra 6 PL" tvg-logo="http://tugapt.com/picons/viaplay-xtra-uk.png" group-title="Poland",ViaPlay Xtra 6 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/105323
+#EXTINF:-1 tvg-id="" tvg-name="ViaPlay Xtra 7 PL" tvg-logo="http://tugapt.com/picons/viaplay-xtra-uk.png" group-title="Poland",ViaPlay Xtra 7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/105322
+#EXTINF:-1 tvg-id="" tvg-name="ViaPlay Xtra 9 PL" tvg-logo="http://tugapt.com/picons/viaplay-xtra-uk.png" group-title="Poland",ViaPlay Xtra 9 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/105320
+#EXTINF:-1 tvg-id="" tvg-name="ViaPlay Xtra 10 PL" tvg-logo="http://tugapt.com/picons/viaplay-xtra-uk.png" group-title="Poland",ViaPlay Xtra 10 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/105319
+#EXTINF:-1 tvg-id="" tvg-name="ViaPlay Xtra 11 PL" tvg-logo="http://tugapt.com/picons/viaplay-xtra-uk.png" group-title="Poland",ViaPlay Xtra 11 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/105318
+#EXTINF:-1 tvg-id="" tvg-name="ViaPlay Xtra 12 PL" tvg-logo="http://tugapt.com/picons/viaplay-xtra-uk.png" group-title="Poland",ViaPlay Xtra 12 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/105317
+#EXTINF:-1 tvg-id="" tvg-name="ViaPlay Xtra 13 PL" tvg-logo="http://tugapt.com/picons/viaplay-xtra-uk.png" group-title="Poland",ViaPlay Xtra 13 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/105316
+#EXTINF:-1 tvg-id="" tvg-name="ViaPlay Xtra 20 PL" tvg-logo="http://tugapt.com/picons/viaplay-xtra-uk.png" group-title="Poland",ViaPlay Xtra 20 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/105309
+#EXTINF:-1 tvg-id="" tvg-name="ViaPlay Xtra 37 PL" tvg-logo="http://tugapt.com/picons/viaplay-xtra-uk.png" group-title="Poland",ViaPlay Xtra 37 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/105292
+#EXTINF:-1 tvg-id="" tvg-name="NetFlix [2023] FHD PL" tvg-logo="http://tugapt.com/picons/viaplay-xtra-uk.png" group-title="Poland",NetFlix [2023] FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/105282
+#EXTINF:-1 tvg-id="" tvg-name="EWTN FHD PL" tvg-logo="http://tugapt.com/picons/viaplay-xtra-uk.png" group-title="Poland",EWTN FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/105281
+#EXTINF:-1 tvg-id="" tvg-name="ViDoc TV FHD PL" tvg-logo="http://tugapt.com/picons/viaplay-xtra-uk.png" group-title="Poland",ViDoc TV FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/105280
+#EXTINF:-1 tvg-id="KSW PL" tvg-name="ViaPlay KSW PPV HD PL" tvg-logo="http://tugapt.com/picons/viaplay-logo.png" group-title="Poland",ViaPlay KSW PPV HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/107312
+#EXTINF:-1 tvg-id="" tvg-name="VIP Media TV PPV HD PL" tvg-logo="http://tugapt.com/picons/vipmediatv.png" group-title="Poland",VIP Media TV PPV HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/107259
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Go PPV HD PL" tvg-logo="http://tugapt.com/picons/polsat-go-pl.png" group-title="Poland",Polsat Go PPV HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/107258
+#EXTINF:-1 tvg-id="TVP Kobieta PL" tvg-name="TVP Kobieta FHD PL" tvg-logo="http://tugapt.com/picons/tvp-kobieta-pl.png" group-title="Poland",TVP Kobieta FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/107317
+#EXTINF:-1 tvg-id="" tvg-name="TVP Historia 2 FHD PL" tvg-logo="http://tugapt.com/picons/tvp-historia-pl.png" group-title="Poland",TVP Historia 2 FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/107323
+#EXTINF:-1 tvg-id="Red Top TV PL" tvg-name="Red Top FHD PL" tvg-logo="http://tugapt.com/picons/red-top-hd-pl.png" group-title="Poland",Red Top FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/107322
+#EXTINF:-1 tvg-id="Filmax PL" tvg-name="FilMax FHD PL" tvg-logo="http://tugapt.com/picons/filmax-pl.png" group-title="Poland",FilMax FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/107321
+#EXTINF:-1 tvg-id="" tvg-name="Kapitan Bomba TV FHD PL" tvg-logo="http://tugapt.com/picons/kapitanbombatvpl.png" group-title="Poland",Kapitan Bomba TV FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/107319
+#EXTINF:-1 tvg-id="" tvg-name="Prime Fight FHD PL" tvg-logo="http://tugapt.com/picons/kabarettv.png" group-title="Poland",Prime Fight FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/107318
+#EXTINF:-1 tvg-id="Antena PL" tvg-name="Antena TV PL" tvg-logo="http://tugapt.com/picons/antenna-hd-pl.png" group-title="Poland",Antena TV PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/107315
+#EXTINF:-1 tvg-id="NovelasPlus PL" tvg-name="Novelas+ FHD PL" tvg-logo="http://tugapt.com/picons/novelas-plus-pl.png" group-title="Poland",Novelas+ FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/107320
+#EXTINF:-1 tvg-id="TVP Kultura PL" tvg-name="TVP Kultura 2 FHD PL" tvg-logo="http://tugapt.com/picons/tvp-kultura-pl.png" group-title="Poland",TVP Kultura 2 FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/107316
+#EXTINF:-1 tvg-id="ONE PL" tvg-name="Top Movies Polska HD PL" tvg-logo="http://tugapt.com/picons/1-hd-pl.png" group-title="Poland",Top Movies Polska HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/107329
+#EXTINF:-1 tvg-id="NickMusic PL" tvg-name="NickMusic PL" tvg-logo="http://tugapt.com/picons/nickmusic-pl.png" group-title="Poland",NickMusic PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/107328
+#EXTINF:-1 tvg-id="TVP ABC PL" tvg-name="TVP ABC 2 FHD PL" tvg-logo="http://tugapt.com/picons/tvp-abc-pl.png" group-title="Poland",TVP ABC 2 FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/107326
+#EXTINF:-1 tvg-id="Wydarzenia 24 PL" tvg-name="Wydarzenia 24 PL" tvg-logo="http://tugapt.com/picons/wydarzenia-24-pl.png" group-title="Poland",Wydarzenia 24 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/107325
+#EXTINF:-1 tvg-id="MIXTAPE PL" tvg-name="TVP Nauka FHD PL" tvg-logo="http://tugapt.com/picons/mixtape-pl.png" group-title="Poland",TVP Nauka FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/107327
+#EXTINF:-1 tvg-id="Echo 24 PL" tvg-name="Moconomy HD PL" tvg-logo="http://tugapt.com/picons/echo24-pl.png" group-title="Poland",Moconomy HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/107324
+#EXTINF:-1 tvg-id="" tvg-name="PPV Stream (MMA Attack) PL" tvg-logo="http://tugapt.com/picons/mma-attack-pl.png" group-title="Poland",PPV Stream (MMA Attack) PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/109955
+#EXTINF:-1 tvg-id="" tvg-name="Fame MMA PL" tvg-logo="http://tugapt.com/picons/fame-mma-pl.png" group-title="Poland",Fame MMA PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/108500
+#EXTINF:-1 tvg-id="Eleven Sports 2 PL" tvg-name="Eleven Sports 2 HD PL" tvg-logo="http://tugapt.com/picons/eleven-sports-2-portugal-uk-pt.png" group-title="Poland",Eleven Sports 2 HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/107448
+#EXTINF:-1 tvg-id="" tvg-name="Fame MMA PPV HD PL" tvg-logo="http://tugapt.com/picons/fame-mma-pl.png" group-title="Poland",Fame MMA PPV HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/110952
+#EXTINF:-1 tvg-id="" tvg-name="The War PPV HD PL" tvg-logo="http://tugapt.com/picons/wartv.png" group-title="Poland",The War PPV HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/110951
+#EXTINF:-1 tvg-id="" tvg-name="MMA Attack PPV HD PL" tvg-logo="http://tugapt.com/picons/mma-attack-pl.png" group-title="Poland",MMA Attack PPV HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/110950
+#EXTINF:-1 tvg-id="" tvg-name="Wotore PPV HD PL" tvg-logo="http://tugapt.com/picons/wotore-pl.png" group-title="Poland",Wotore PPV HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/110949
+#EXTINF:-1 tvg-id="" tvg-name="Gromda TV PPV HD PL" tvg-logo="http://tugapt.com/picons/gromda-tv-pl.png" group-title="Poland",Gromda TV PPV HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/110948
+#EXTINF:-1 tvg-id="" tvg-name="High League PPV HD PL" tvg-logo="http://tugapt.com/picons/high-league-pl.png" group-title="Poland",High League PPV HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/110947
+#EXTINF:-1 tvg-id="" tvg-name="Stream Online TV PPV HD PL" tvg-logo="http://tugapt.com/picons/stream-online-tv-pl.png" group-title="Poland",Stream Online TV PPV HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/110718
+#EXTINF:-1 tvg-id="" tvg-name="PlayLive PPV Platform PL" tvg-logo="" group-title="Poland",PlayLive PPV Platform PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/116682
+#EXTINF:-1 tvg-id="" tvg-name="Viaplay Polska KSW PL" tvg-logo="" group-title="Poland",Viaplay Polska KSW PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/116681
+#EXTINF:-1 tvg-id="" tvg-name="Fight Time FHD PL" tvg-logo="" group-title="Poland",Fight Time FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/124672
+#EXTINF:-1 tvg-id="" tvg-name="Nick Music PL" tvg-logo="" group-title="Poland",Nick Music PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/124708
+#EXTINF:-1 tvg-id="" tvg-name="Sportowa TV FHD PL" tvg-logo="" group-title="Poland",Sportowa TV FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/124707
+#EXTINF:-1 tvg-id="" tvg-name="Polsat News Polityka FHD PL" tvg-logo="" group-title="Poland",Polsat News Polityka FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/124706
+#EXTINF:-1 tvg-id="" tvg-name="Wydarzenia 24 FHD PL" tvg-logo="" group-title="Poland",Wydarzenia 24 FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/124705
+#EXTINF:-1 tvg-id="" tvg-name="Telewizja Biznesowa FHD PL" tvg-logo="" group-title="Poland",Telewizja Biznesowa FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/124704
+#EXTINF:-1 tvg-id="" tvg-name="DLA Ciebie TV FHD PL" tvg-logo="" group-title="Poland",DLA Ciebie TV FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/124703
+#EXTINF:-1 tvg-id="" tvg-name="WTK FHD PL" tvg-logo="" group-title="Poland",WTK FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/124702
+#EXTINF:-1 tvg-id="" tvg-name="Toya TV PL" tvg-logo="" group-title="Poland",Toya TV PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/124701
+#EXTINF:-1 tvg-id="" tvg-name="Asta TV HD PL" tvg-logo="" group-title="Poland",Asta TV HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/124700
+#EXTINF:-1 tvg-id="" tvg-name="Super Express TV PL" tvg-logo="" group-title="Poland",Super Express TV PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/124699
+#EXTINF:-1 tvg-id="" tvg-name="Poradnikzdrowie FHD PL" tvg-logo="" group-title="Poland",Poradnikzdrowie FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/124698
+#EXTINF:-1 tvg-id="" tvg-name="Murator HD PL" tvg-logo="" group-title="Poland",Murator HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/124697
+#EXTINF:-1 tvg-id="" tvg-name="Royal World PL" tvg-logo="" group-title="Poland",Royal World PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/124696
+#EXTINF:-1 tvg-id="" tvg-name="Benchmark TV FHD PL" tvg-logo="" group-title="Poland",Benchmark TV FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/124694
+#EXTINF:-1 tvg-id="" tvg-name="Home TV FHD PL" tvg-logo="" group-title="Poland",Home TV FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/124693
+#EXTINF:-1 tvg-id="" tvg-name="Kabaret TV FHD PL" tvg-logo="" group-title="Poland",Kabaret TV FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/124691
+#EXTINF:-1 tvg-id="" tvg-name="Junior Music PL" tvg-logo="" group-title="Poland",Junior Music PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/124690
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito PL" tvg-logo="" group-title="Poland",Cartoonito PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/124689
+#EXTINF:-1 tvg-id="" tvg-name="GameToon HD PL" tvg-logo="" group-title="Poland",GameToon HD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/124688
+#EXTINF:-1 tvg-id="" tvg-name="13 TV FHD PL" tvg-logo="" group-title="Poland",13 TV FHD PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/116683
+#EXTINF:-1 tvg-id="" tvg-name="Top Movies Polska 24/7 PL" tvg-logo="" group-title="24-7 Poland",Top Movies Polska 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132700
+#EXTINF:-1 tvg-id="" tvg-name="Grjngo Westerny 24/7 PL" tvg-logo="" group-title="24-7 Poland",Grjngo Westerny 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132699
+#EXTINF:-1 tvg-id="" tvg-name="Bjgtjme Darmowe Filmy 24/7 PL" tvg-logo="" group-title="24-7 Poland",Bjgtjme Darmowe Filmy 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132698
+#EXTINF:-1 tvg-id="" tvg-name="Kapitan Bomba 24/7 PL" tvg-logo="" group-title="24-7 Poland",Kapitan Bomba 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132697
+#EXTINF:-1 tvg-id="" tvg-name="Porucznik Kabura TV 24/7 PL" tvg-logo="" group-title="24-7 Poland",Porucznik Kabura TV 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132696
+#EXTINF:-1 tvg-id="" tvg-name="Top 10 - Nowości 1 24/7 PL" tvg-logo="" group-title="24-7 Poland",Top 10 - Nowości 1 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132695
+#EXTINF:-1 tvg-id="" tvg-name="Top 10 - Nowości 2 24/7 PL" tvg-logo="" group-title="24-7 Poland",Top 10 - Nowości 2 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132694
+#EXTINF:-1 tvg-id="" tvg-name="Top 10 - Nowości 3 24/7 PL" tvg-logo="" group-title="24-7 Poland",Top 10 - Nowości 3 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132693
+#EXTINF:-1 tvg-id="" tvg-name="Top 10 - Nowości 4 24/7 PL" tvg-logo="" group-title="24-7 Poland",Top 10 - Nowości 4 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132692
+#EXTINF:-1 tvg-id="" tvg-name="Top 10 - Nowości 5 24/7 PL" tvg-logo="" group-title="24-7 Poland",Top 10 - Nowości 5 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132691
+#EXTINF:-1 tvg-id="" tvg-name="Top 10 - Poland Movies 1 [2025] 24/7 PL" tvg-logo="" group-title="24-7 Poland",Top 10 - Poland Movies 1 [2025] 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132690
+#EXTINF:-1 tvg-id="" tvg-name="Top 10 - Poland Movies 2 [2025] 24/7 PL" tvg-logo="" group-title="24-7 Poland",Top 10 - Poland Movies 2 [2025] 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132689
+#EXTINF:-1 tvg-id="" tvg-name="Top 10 - Poland Movies 3 [2025] 24/7 PL" tvg-logo="" group-title="24-7 Poland",Top 10 - Poland Movies 3 [2025] 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132688
+#EXTINF:-1 tvg-id="" tvg-name="Top 10 - Poland Movies 4 [2025] 24/7 PL" tvg-logo="" group-title="24-7 Poland",Top 10 - Poland Movies 4 [2025] 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132687
+#EXTINF:-1 tvg-id="" tvg-name="Top 10 - Poland Movies 5 [2025] 24/7 PL" tvg-logo="" group-title="24-7 Poland",Top 10 - Poland Movies 5 [2025] 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132686
+#EXTINF:-1 tvg-id="" tvg-name="Top 10 - Akcja 24/7 PL" tvg-logo="" group-title="24-7 Poland",Top 10 - Akcja 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132685
+#EXTINF:-1 tvg-id="" tvg-name="Top 10 - Biblijne 24/7 PL" tvg-logo="" group-title="24-7 Poland",Top 10 - Biblijne 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132684
+#EXTINF:-1 tvg-id="" tvg-name="Top 10 - Fantasy 24/7 PL" tvg-logo="" group-title="24-7 Poland",Top 10 - Fantasy 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132683
+#EXTINF:-1 tvg-id="" tvg-name="Top 10 - Gangsterskie 24/7 PL" tvg-logo="" group-title="24-7 Poland",Top 10 - Gangsterskie 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132682
+#EXTINF:-1 tvg-id="" tvg-name="Top 10 - Historyczne 24/7 PL" tvg-logo="" group-title="24-7 Poland",Top 10 - Historyczne 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132681
+#EXTINF:-1 tvg-id="" tvg-name="Top 10 - Horror 24/7 PL" tvg-logo="" group-title="24-7 Poland",Top 10 - Horror 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132680
+#EXTINF:-1 tvg-id="" tvg-name="Top 10 - Katastroficzne 24/7 PL" tvg-logo="" group-title="24-7 Poland",Top 10 - Katastroficzne 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132679
+#EXTINF:-1 tvg-id="" tvg-name="Top 10 - Karate 24/7 PL" tvg-logo="" group-title="24-7 Poland",Top 10 - Karate 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132678
+#EXTINF:-1 tvg-id="" tvg-name="Top 10 - Komedie 24/7 PL" tvg-logo="" group-title="24-7 Poland",Top 10 - Komedie 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132677
+#EXTINF:-1 tvg-id="" tvg-name="Top 10 - Melodramat 24/7 PL" tvg-logo="" group-title="24-7 Poland",Top 10 - Melodramat 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132676
+#EXTINF:-1 tvg-id="" tvg-name="Top 10 - Muzyczne 24/7 PL" tvg-logo="" group-title="24-7 Poland",Top 10 - Muzyczne 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132675
+#EXTINF:-1 tvg-id="" tvg-name="Top 10 - Przygodowe 24/7 PL" tvg-logo="" group-title="24-7 Poland",Top 10 - Przygodowe 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132674
+#EXTINF:-1 tvg-id="" tvg-name="Top 10 - Wojenne 24/7 PL" tvg-logo="" group-title="24-7 Poland",Top 10 - Wojenne 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132673
+#EXTINF:-1 tvg-id="" tvg-name="Top 10 - Disney+ 24/7 PL" tvg-logo="" group-title="24-7 Poland",Top 10 - Disney+ 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132672
+#EXTINF:-1 tvg-id="" tvg-name="Top 10 - Max 24/7 PL" tvg-logo="" group-title="24-7 Poland",Top 10 - Max 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132671
+#EXTINF:-1 tvg-id="" tvg-name="Top 10 - Prime Video 24/7 PL" tvg-logo="" group-title="24-7 Poland",Top 10 - Prime Video 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132670
+#EXTINF:-1 tvg-id="" tvg-name="Kevin 1-2 24/7 PL" tvg-logo="" group-title="24-7 Poland",Kevin 1-2 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132669
+#EXTINF:-1 tvg-id="" tvg-name="Adam Sandler 24/7 PL" tvg-logo="" group-title="24-7 Poland",Adam Sandler 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132668
+#EXTINF:-1 tvg-id="" tvg-name="Al Pacino 24/7 PL" tvg-logo="" group-title="24-7 Poland",Al Pacino 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132667
+#EXTINF:-1 tvg-id="" tvg-name="Andrzej Grabowski 24/7 PL" tvg-logo="" group-title="24-7 Poland",Andrzej Grabowski 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132666
+#EXTINF:-1 tvg-id="" tvg-name="Angelina Jolie 24/7 PL" tvg-logo="" group-title="24-7 Poland",Angelina Jolie 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132665
+#EXTINF:-1 tvg-id="" tvg-name="Anthony Hopkins 24/7 PL" tvg-logo="" group-title="24-7 Poland",Anthony Hopkins 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132664
+#EXTINF:-1 tvg-id="" tvg-name="Arnold Schwarzenegger 24/7 PL" tvg-logo="" group-title="24-7 Poland",Arnold Schwarzenegger 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132663
+#EXTINF:-1 tvg-id="" tvg-name="Bogus 24/7 PL" tvg-logo="" group-title="24-7 Poland",Bogus 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132662
+#EXTINF:-1 tvg-id="" tvg-name="Brad Pitt 24/7 PL" tvg-logo="" group-title="24-7 Poland",Brad Pitt 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132661
+#EXTINF:-1 tvg-id="" tvg-name="Bruce Lee Saga 24/7 PL" tvg-logo="" group-title="24-7 Poland",Bruce Lee Saga 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132660
+#EXTINF:-1 tvg-id="" tvg-name="Bruce Willis 24/7 PL" tvg-logo="" group-title="24-7 Poland",Bruce Willis 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132659
+#EXTINF:-1 tvg-id="" tvg-name="Cezary Pazura 24/7 PL" tvg-logo="" group-title="24-7 Poland",Cezary Pazura 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132658
+#EXTINF:-1 tvg-id="" tvg-name="Charlie Sheen 24/7 PL" tvg-logo="" group-title="24-7 Poland",Charlie Sheen 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132657
+#EXTINF:-1 tvg-id="" tvg-name="Chevy Chase 24/7 PL" tvg-logo="" group-title="24-7 Poland",Chevy Chase 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132656
+#EXTINF:-1 tvg-id="" tvg-name="Chuck Norris 24/7 PL" tvg-logo="" group-title="24-7 Poland",Chuck Norris 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132655
+#EXTINF:-1 tvg-id="" tvg-name="Clint Eastwood 24/7 PL" tvg-logo="" group-title="24-7 Poland",Clint Eastwood 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132654
+#EXTINF:-1 tvg-id="" tvg-name="Dennis Hopper 24/7 PL" tvg-logo="" group-title="24-7 Poland",Dennis Hopper 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132653
+#EXTINF:-1 tvg-id="" tvg-name="Denzel Washington 24/7 PL" tvg-logo="" group-title="24-7 Poland",Denzel Washington 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132652
+#EXTINF:-1 tvg-id="" tvg-name="Dolph Lundgren 24/7 PL" tvg-logo="" group-title="24-7 Poland",Dolph Lundgren 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132651
+#EXTINF:-1 tvg-id="" tvg-name="Dustin Hoffman 24/7 PL" tvg-logo="" group-title="24-7 Poland",Dustin Hoffman 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132650
+#EXTINF:-1 tvg-id="" tvg-name="Dwayne Johnson 24/7 PL" tvg-logo="" group-title="24-7 Poland",Dwayne Johnson 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132649
+#EXTINF:-1 tvg-id="" tvg-name="Eddie Murphy 24/7 PL" tvg-logo="" group-title="24-7 Poland",Eddie Murphy 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132648
+#EXTINF:-1 tvg-id="" tvg-name="Gerard Butler 24/7 PL" tvg-logo="" group-title="24-7 Poland",Gerard Butler 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132647
+#EXTINF:-1 tvg-id="" tvg-name="Jack Nicholson 24/7 PL" tvg-logo="" group-title="24-7 Poland",Jack Nicholson 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132646
+#EXTINF:-1 tvg-id="" tvg-name="Jackie Chan 24/7 PL" tvg-logo="" group-title="24-7 Poland",Jackie Chan 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132645
+#EXTINF:-1 tvg-id="" tvg-name="Janusz Gajos 24/7 PL" tvg-logo="" group-title="24-7 Poland",Janusz Gajos 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132644
+#EXTINF:-1 tvg-id="" tvg-name="Jason Statham 24/7 PL" tvg-logo="" group-title="24-7 Poland",Jason Statham 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132643
+#EXTINF:-1 tvg-id="" tvg-name="Jean-Claude Van Damme 24/7 PL" tvg-logo="" group-title="24-7 Poland",Jean-Claude Van Damme 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132642
+#EXTINF:-1 tvg-id="" tvg-name="Jet Li 24/7 PL" tvg-logo="" group-title="24-7 Poland",Jet Li 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132641
+#EXTINF:-1 tvg-id="" tvg-name="Jerzy Stuhr 24/7 PL" tvg-logo="" group-title="24-7 Poland",Jerzy Stuhr 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132640
+#EXTINF:-1 tvg-id="" tvg-name="Jim Carrey 24/7 PL" tvg-logo="" group-title="24-7 Poland",Jim Carrey 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132639
+#EXTINF:-1 tvg-id="" tvg-name="Jodie Foster" tvg-logo="" group-title="24-7 Poland",Jodie Foster
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132638
+#EXTINF:-1 tvg-id="" tvg-name="John Travolta 24/7 PL" tvg-logo="" group-title="24-7 Poland",John Travolta 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132637
+#EXTINF:-1 tvg-id="" tvg-name="Johnny Depp 24/7 PL" tvg-logo="" group-title="24-7 Poland",Johnny Depp 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132636
+#EXTINF:-1 tvg-id="" tvg-name="Julia Roberts 24/7 PL" tvg-logo="" group-title="24-7 Poland",Julia Roberts 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132635
+#EXTINF:-1 tvg-id="" tvg-name="Katarzyna Figura 24/7 PL" tvg-logo="" group-title="24-7 Poland",Katarzyna Figura 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132634
+#EXTINF:-1 tvg-id="" tvg-name="Keanu Reeves 24/7 PL" tvg-logo="" group-title="24-7 Poland",Keanu Reeves 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132633
+#EXTINF:-1 tvg-id="" tvg-name="Kevin Costner 24/7 PL" tvg-logo="" group-title="24-7 Poland",Kevin Costner 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132632
+#EXTINF:-1 tvg-id="" tvg-name="Leonardo DiCaprio 24/7 PL" tvg-logo="" group-title="24-7 Poland",Leonardo DiCaprio 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132631
+#EXTINF:-1 tvg-id="" tvg-name="Leslie Nielsen 24/7 PL" tvg-logo="" group-title="24-7 Poland",Leslie Nielsen 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132630
+#EXTINF:-1 tvg-id="" tvg-name="Liam Neeson 24/7 PL" tvg-logo="" group-title="24-7 Poland",Liam Neeson 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132629
+#EXTINF:-1 tvg-id="" tvg-name="Lorenso Lamas 24/7 PL" tvg-logo="" group-title="24-7 Poland",Lorenso Lamas 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132628
+#EXTINF:-1 tvg-id="" tvg-name="Louis de Funes 24/7 PL" tvg-logo="" group-title="24-7 Poland",Louis de Funes 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132627
+#EXTINF:-1 tvg-id="" tvg-name="Maciej Stuhr 24/7 PL" tvg-logo="" group-title="24-7 Poland",Maciej Stuhr 24/7 PL
+http://zoki.poki.el.diablo.del.infierno.streamtv.to:8080/dmtndmtnkimo/a7GPMeArdf/132626
